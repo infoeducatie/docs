@@ -116,7 +116,7 @@ Fiecare echipă trebuie să răspundă la orice neclarități legate de lucrarea
 Acest capitol se referă la toate materiale, documentele și resursele adiționale pe care o echipă trebuie să le pună la dispoziția membrilor juriului și a organizatorilor pentru ca înscrierea în concurs să fie considerată validă.
 
 ##Secțiunea II.1. Codul sursă
-
+    - Acesta prevedere nu se aplica pentru sectiunea Multimedia.
     - Codul sursă pentru fiecare proiect trebuie să fie accesibil pe Github
 
 ###Subsecțiunea II.1. Proiecte open-source
