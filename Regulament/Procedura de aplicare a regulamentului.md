@@ -55,6 +55,16 @@ Cuprins:
     - Pentru a înscrie un proiect în cadrul competiției fiecare echipă trebuie să completeze formularul destinat înscrierii proiectului de pe site-ul [www.infoeducatie.ro](http://infoeducatie.ro).
     - În cazul în care echipa întâmpină probleme în completarea formularului are datoria de a anunța în cel mai scurt timp echipa de dezvoltatori, folosind adresa de email ping@infoeducatie.ro
     - Echipa de dezvoltatori are datoria de a răspunde în mai puțin de 24 de ore la orice mesaj ce semnalează o problemă
+    - În cazul în care echipa are nelămuriri legate de informațiile pe care trebuie să le ofere poate contacta membrii comisiei prin cele două canale oficiale puse la dispoziție:
+        - Forumul public al competiției: [community.infoeducatie.ro](http://community.infoeducatie.ro)
+        - Adresele de mail pentru juriul de la fiecare secțiune:
+            - web@infoeducatie.ro
+            - utilitar@infoeducatie.ro
+            - educational@infoeducatie.ro
+            - roboti@infoeducatie.ro
+            - multimedia@infoeducatie.ro
+    - În cazul în care un participant adresează o întrebare al cărui răspuns ar putea ajuta și alți paticipanți, membrii juriului pot refuza să răspundă la întrebare prin intermediul mailului și să îi solicite publicarea întrebării pe forum. 
+
 
 ###Subsecțiunea I.2. Termenul limită
 
