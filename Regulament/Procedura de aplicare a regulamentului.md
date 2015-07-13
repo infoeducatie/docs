@@ -108,11 +108,46 @@ Fiecare echipă trebuie să răspundă la orice neclarități legate de lucrarea
 
 #Capitolul II. Resursele necesare jurizării
 
-##Subcapitolul II.1. Codul sursă
+Acest capitol se referă la toate materiale, documentele și resursele adiționale pe care o echipă trebuie să le pună la dispoziția membrilor juriului și a organizatorilor pentru ca înscrierea în concurs să fie considerată validă.
 
-##Subcapitolul II.2. Specificațiile proiectului
+##Secțiunea II.1. Codul sursă
 
-##Subcapitolul II.3. Documentația proiectului
+    - Codul sursă pentru fiecare proiect trebuie să fie accesibil pe Github
+
+###Subsecțiunea II.1. Proiecte open-source
+
+    - Fiecare echipă va trebui să specifice licența utilizată. Mai multe informații pentru alegerea licenței puteți găsi [aici](choosealicense.com).
+    - Termenii din licența aleasă trebuie să fie respectați
+
+###Subsecțiunea II.2. Proiecte private
+
+    - Fiecare echipă ce nu dorește să publice codul sursă pentru proiectul său, trebuie să specifice acest lucru la înscriere
+    - În cazul în care motivul invocat nu este unul valid, organizatorii au posibilitatea de a respinge proiectul
+    - Fiecare echipă ce este înscrisă în concurs cu un proiect cu surse private va primi din partea echipei de dezvoltatoru un repository privat gratuit pe Github
+    - Juriul InfoEducație se obligă să nu divulge persoanelor neimplicate în jurizare conținutul proiectelor înscrise în concurs.
+
+##Secțiunea II.2. Specificațiile proiectului
+
+    - Fiecare echipă trebuie să specifice la înscrierea proiectului în cadrul competiției o listă cu specificații minime pe care organizatorii trebuie să le pună la dispoziție pentru buna funcționare a aplicației.
+    - În cazul în care organizatorii nu pot pune la dispoziție configurația cerută de participanți aceștia sunt rugați să își pregătească toate resursele necesare pentru susținera unei prezentări demonstrative în tabără.
+
+
+##Secțiunea II.3. Documentația proiectului
+
+    - Proiectul trebuie să conțină o scurtă prezentarea a acestuia și/sau o documentație.
+    - Prezentarea sau documentația trebuie să conțină o listă cu toate resursele externe folosite (tutoriale, cod autogenerat de diverse utilitare, exemple de cod etc) în caz contrar acest lucru poate duce descalificarea proiectului.
+
+###Subsecțiunea II.3. Documentația proiectului
+
+    - Documentația proiectului nu este obligatorie pentru înscrierea în cadrul concursului dar poate conta la jurizarea proiectului
+    - Fiecare juriu trebuie să specifice în cadrul criteriilor de jurizare dacă documentația va fi punctată și care este modul în care trebuie structurată
+
+###Subsecțiunea II.4. Prezentarea proiectului
+
+    - Prezentarea proiectului trebuie să aibă maxim 5 pagini
+    - Trebuie să prezinte succint succint aplicația împreună cu tehnologiile folosite
+    - În cadrul acesteia nu trebuie să apară fragmente de cod sursă sau capturi de ecran.
+
 
 #Capitolul III. Instalarea proiectului
 
