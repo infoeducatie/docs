@@ -116,7 +116,7 @@ Fiecare echipă trebuie să răspundă la orice neclarități legate de lucrarea
 Acest capitol se referă la toate materiale, documentele și resursele adiționale pe care o echipă trebuie să le pună la dispoziția membrilor juriului și a organizatorilor pentru ca înscrierea în concurs să fie considerată validă.
 
 ##Secțiunea II.1. Codul sursă
-    - Acesta prevedere nu se aplica pentru sectiunea Multimedia.
+    - Acesta prevedere nu se aplică pentru sectiunea Multimedia.
     - Codul sursă pentru fiecare proiect trebuie să fie accesibil pe Github
 
 ###Subsecțiunea II.1. Proiecte open-source
@@ -128,7 +128,7 @@ Acest capitol se referă la toate materiale, documentele și resursele adiționa
 
     - Fiecare echipă ce nu dorește să publice codul sursă pentru proiectul său, trebuie să specifice acest lucru la înscriere
     - În cazul în care motivul invocat nu este unul valid, organizatorii au posibilitatea de a respinge proiectul
-    - Fiecare echipă ce este înscrisă în concurs cu un proiect cu surse private va primi din partea echipei de dezvoltatoru un repository privat gratuit pe Github
+    - Fiecare echipă ce este înscrisă în concurs cu un proiect cu surse private va primi din partea echipei de dezvoltare un repository privat gratuit pe Github
     - Juriul InfoEducație se obligă să nu divulge persoanelor neimplicate în jurizare conținutul proiectelor înscrise în concurs.
 
 ##Secțiunea II.2. Specificațiile proiectului
@@ -150,7 +150,7 @@ Acest capitol se referă la toate materiale, documentele și resursele adiționa
 ###Subsecțiunea II.4. Prezentarea proiectului
 
     - Prezentarea proiectului trebuie să aibă maxim 5 pagini
-    - Trebuie să prezinte succint succint aplicația împreună cu tehnologiile folosite
+    - Trebuie să prezinte succint aplicația împreună cu tehnologiile folosite
     - În cadrul acesteia nu trebuie să apară fragmente de cod sursă sau capturi de ecran.
 
 
