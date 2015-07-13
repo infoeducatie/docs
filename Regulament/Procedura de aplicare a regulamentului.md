@@ -30,13 +30,44 @@ Cuprins:
 
 #Capitoulul I. Înscrierea lucrării în concurs
 
-## Subcapitolul I.1. Componența echipelor
+În cadrul acestui capitol vor fi prezentate regulile ce trebuiesc urmate în cadrul înscrierii proiectului în concurs.
 
-## Subcapitolul I.2. Lotul județului
+## Secțiunea I.1. Componența echipei
 
-## Subcapitolul I.3. Înscrierea proiectului pe site-ul infoeducatie.ro
+    - Participarea la concurs se poate face atât individual cât și în echipe de maxim două persoane.
+    - Componența echipei nu se poate schimba de la etapa județeană la etapa națională a concursului.
+    - Echipa va putea înscrie în concurs numai proiectele ce au fost prezentate la etapa județeană a concursului și s-au calificat pentru etapa națională a acestuia.
 
-## Subcapitolul I.4. Acceptarea lucrărilor
+## Secțiunea I.2. Lotul județului
+
+    - Fiecare județ poate tremite la etapa națională a concursului un grup de maxim cinci elevi
+    - Fiecare județ trebuie să trimită pentru etapa națională un număr minim de trei proiecte.
+
+## Secțiunea I.3. Înscrierea proiectului pe site-ul infoeducatie.ro
+
+###Subsecțiunea I.1. Forumularul de înscriere
+
+    - Pentru a înscrie un proiect în cadrul competiției fiecare echipă trebuie să completeze formularul destinat înscrierii proiectului de pe site-ul [www.infoeducatie.ro](http://infoeducatie.ro).
+    - În cazul în care echipa întâmpină probleme în completarea formularului are datoria de a anunța în cel mai scurt timp echipa de dezvoltatori, folosind adresa de email ping@infoeducatie.ro
+    - Echipa de dezvoltatori are datoria de a răspunde în mai puțin de 24 de ore la orice mesaj ce semnalează o problemă
+
+###Subsecțiunea I.2. Termenul limită
+
+    - Termenul limită pentru înscrierea proiectului este 27 Iulie, orice înscriere după această dată nu va fi luată în considerare
+    - Versiunea proiectului din data de 27 Iulie va fi versiunea proiectului ce va fi prezentată în cadrul proiectului
+    - Fiecare echipa are datoria de a pune la dispoziția juriului toate resursele necesare jurizării până la această data
+
+## Secțiunea I.4. Acceptarea lucrărilor
+
+###Subsecțiunea I.3. Echipa de organizatori
+
+    - Echipa de organizatori are datoria de a verifica fiecare înscriere în vederea stabilirii validității acesteia
+    - Pentru orice proiect respins, echipa de organizatori are datoria de a anunța echipa în mai puțin de 24 de ore de la respingerea acesteia
+
+###Subsecțiunea I.4. Participanții
+
+    - Fiecare participant trebuie să ofere toate informațiile necesare validării proiectului
+    - Fiecare echipă trebuie să răspundă la orice neclarități legate de lucrarea înscrisă în mai puțin de 48 de ore
 
 #Capitolul II. Resursele necesare jurizării
 
