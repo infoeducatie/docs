@@ -5,11 +5,16 @@ Acest document conține un set de reguli ce extind și clarifică setup de regul
 
 Cuprins:
 
-- Capitoulul I. Înscrierea lucrării în concurs
-    - Subcapitolul I.1. Componența echipelor
-    - Subcapitolul I.2. Lotul județului
-    - Subcapitolul I.3. Înscrierea proiectului pe site-ul infoeducatie.ro
-    - Subcapitolul I.4. Acceptarea lucrărilor
+- [Capitoulul I. Înscrierea lucrării în concurs](#capitoulul-i-înscrierea-lucrării-în-concurs)
+    - [Secțiunea I.1. Componența echipei](#secțiunea-i1-componența-echipei)
+    - [Secțiunea I.2. Lotul județului](#secțiunea-i2-lotul-județului)
+    - [Secțiunea I.3. Înscrierea proiectului pe site-ul infoeducatie.ro](#secțiunea-i3-înscrierea-proiectului-pe-site-ul-infoeducatiero)
+        - [Subsecțiunea I.1. Forumularul de înscriere](#subsecțiunea-i1-forumularul-de-înscriere)
+        - [Subsecțiunea I.2. Termenul limită](#subsecțiunea-i2-termenul-limită)
+    - [Secțiunea I.4. Acceptarea lucrărilor](#secțiunea-i4-acceptarea-lucrărilor)
+        - [Subsecțiunea I.3. Echipa de organizatori](#subsecțiunea-i3-echipa-de-organizatori)
+        - [Subsecțiunea I.4. Participanții](#subsecțiunea-i4-participanții)
+
 - Capitolul II. Resursele necesare jurizării
     - Subcapitolul II.1. Codul sursă
     - Subcapitolul II.2. Specificațiile proiectului
