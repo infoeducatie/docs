@@ -15,10 +15,15 @@ Cuprins:
         - [Subsecțiunea I.3. Echipa de organizatori](#subsecțiunea-i3-echipa-de-organizatori)
         - [Subsecțiunea I.4. Participanții](#subsecțiunea-i4-participanții)
 
-- Capitolul II. Resursele necesare jurizării
-    - Subcapitolul II.1. Codul sursă
-    - Subcapitolul II.2. Specificațiile proiectului
-    - Subcapitolul II.3. Documentația proiectului
+- [Capitolul II. Resursele necesare jurizării](#capitolul-ii-resursele-necesare-jurizării)
+    - [Secțiunea II.1. Codul sursă](#secțiunea-ii1-codul-sursă)
+        - [Subsecțiunea II.1. Proiecte open-source](#subsecțiunea-ii1-proiecte-open-source)
+        - [Subsecțiunea II.2. Proiecte private](#subsecțiunea-ii2-proiecte-private)
+    - [Secțiunea II.2. Specificațiile proiectului](#secțiunea-ii2-specificațiile-proiectului)
+    - [Secțiunea II.3. Documentația proiectului](#secțiunea-ii3-documentația-proiectului)
+        - [Subsecțiunea II.3. Documentația proiectului](#subsecțiunea-ii3-documentația-proiectului)
+        - [Subsecțiunea II.4. Prezentarea proiectului](#subsecțiunea-ii4-prezentarea-proiectului)
+
 - Capitolul III. Instalarea proiectului
     - Subcapitolul III.1. Programarea proiectelor
     - Subcapitolul III.2. Instalarea proiectului
