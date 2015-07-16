@@ -15,10 +15,15 @@ Cuprins:
         - [Subsecțiunea I.3. Echipa de organizatori](#subsecțiunea-i3-echipa-de-organizatori)
         - [Subsecțiunea I.4. Participanții](#subsecțiunea-i4-participanții)
 
-- Capitolul II. Resursele necesare jurizării
-    - Subcapitolul II.1. Codul sursă
-    - Subcapitolul II.2. Specificațiile proiectului
-    - Subcapitolul II.3. Documentația proiectului
+- [Capitolul II. Resursele necesare jurizării](#capitolul-ii-resursele-necesare-jurizării)
+    - [Secțiunea II.1. Codul sursă](#secțiunea-ii1-codul-sursă)
+        - [Subsecțiunea II.1. Proiecte open-source](#subsecțiunea-ii1-proiecte-open-source)
+        - [Subsecțiunea II.2. Proiecte private](#subsecțiunea-ii2-proiecte-private)
+    - [Secțiunea II.2. Specificațiile proiectului](#secțiunea-ii2-specificațiile-proiectului)
+    - [Secțiunea II.3. Documentația proiectului](#secțiunea-ii3-documentația-proiectului)
+        - [Subsecțiunea II.3. Documentația proiectului](#subsecțiunea-ii3-documentația-proiectului)
+        - [Subsecțiunea II.4. Prezentarea proiectului](#subsecțiunea-ii4-prezentarea-proiectului)
+
 - Capitolul III. Instalarea proiectului
     - Subcapitolul III.1. Programarea proiectelor
     - Subcapitolul III.2. Instalarea proiectului
@@ -108,11 +113,69 @@ Fiecare echipă trebuie să răspundă la orice neclarități legate de lucrarea
 
 #Capitolul II. Resursele necesare jurizării
 
-##Subcapitolul II.1. Codul sursă
+Acest capitol se referă la toate materiale, documentele și resursele adiționale pe care o echipă trebuie să le pună la dispoziția membrilor juriului și a organizatorilor pentru ca înscrierea în concurs să fie considerată validă.
 
-##Subcapitolul II.2. Specificațiile proiectului
+##Secțiunea II.1. Codul sursă
+Acesta prevedere nu se aplică pentru sectiunea Multimedia.
 
-##Subcapitolul II.3. Documentația proiectului
+####Articolul II.1
+Codul sursă pentru fiecare proiect trebuie să fie accesibil pe Github
+
+###Subsecțiunea II.1. Proiecte open-source
+
+####Articolul II.2
+Fiecare echipă va trebui să specifice licența utilizată. Mai multe informații pentru alegerea licenței puteți găsi [aici](choosealicense.com).
+
+####Articolul II.3
+Termenii din licența aleasă trebuie să fie respectați
+
+###Subsecțiunea II.2. Proiecte private
+
+####Articolul II.4
+- Fiecare echipă ce nu dorește să publice codul sursă pentru proiectul său, trebuie să specifice acest lucru la înscriere
+
+- În cazul în care motivul invocat nu este unul valid, organizatorii au posibilitatea de a respinge proiectul
+
+####Articolul II.5
+- Fiecare echipă ce este înscrisă în concurs cu un proiect cu surse private va primi din partea echipei de dezvoltare un repository privat gratuit pe Github
+
+- Juriul InfoEducație se obligă să nu divulge persoanelor neimplicate în jurizare conținutul proiectelor înscrise în concurs.
+
+##Secțiunea II.2. Specificațiile proiectului
+
+####Articolul II.6
+
+- Fiecare echipă trebuie să specifice la înscrierea proiectului în cadrul competiției o listă cu specificații minime pe care organizatorii trebuie să le pună la dispoziție pentru buna funcționare a aplicației.
+
+- În cazul în care organizatorii nu pot pune la dispoziție configurația cerută de participanți aceștia sunt rugați să își pregătească toate resursele necesare pentru susținera unei prezentări demonstrative în tabără.
+
+
+##Secțiunea II.3. Documentația proiectului
+
+Proiectul trebuie să conțină o scurtă prezentarea a acestuia și/sau o documentație.
+
+####Articolul II.7
+
+Prezentarea sau documentația trebuie să conțină o listă cu toate resursele externe folosite (tutoriale, cod autogenerat de diverse utilitare, exemple de cod etc) în caz contrar acest lucru poate duce descalificarea proiectului.
+
+###Subsecțiunea II.3. Documentația proiectului
+
+####Articolul II.8
+- Documentația proiectului nu este obligatorie pentru înscrierea în cadrul concursului dar poate conta la jurizarea proiectului
+
+- Fiecare juriu trebuie să specifice în cadrul criteriilor de jurizare dacă documentația va fi punctată și care este modul în care trebuie structurată
+
+###Subsecțiunea II.4. Prezentarea proiectului
+
+####Articolul II.9
+Prezentarea proiectului trebuie să aibă maxim 5 pagini
+
+####Articolul II.10
+Trebuie să prezinte succint aplicația împreună cu tehnologiile folosite
+
+####Articolul II.11
+În cadrul acesteia nu trebuie să apară fragmente de cod sursă sau capturi de ecran.
+
 
 #Capitolul III. Instalarea proiectului
 
