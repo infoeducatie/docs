@@ -28,10 +28,11 @@ Cuprins:
 	- [Subcapitolul III.1. Programarea proiectelor](#subcapitolul-iii1-programarea-proiectelor)
 	- [Subcapitolul III.2. Instalarea proiectului](#subcapitolul-iii2-instalarea-proiectului)
 
-- Capitolul IV. Prezentarea proiectului
-    - Subcapitolul IV.1. Programarea proiectelor
-    - Subcapitolul IV.2. Prezentarea proiectului
-    - Subcapitolul IV.3. Jurizarea proiectului
+- [Capitolul IV. Prezentarea proiectului](#capitolul-iv-prezentarea-proiectului)
+	- [Subcapitolul IV.1. Programarea proiectelor](#subcapitolul-iv1-programarea-proiectelor)
+	- [Subcapitolul IV.2. Prezentarea proiectului](#subcapitolul-iv2-prezentarea-proiectului)
+	- [Subcapitolul IV.3. Jurizarea proiectului](#subcapitolul-iv3-jurizarea-proiectului)
+
 - Capitolul V. Proba Open
     - Subcapitolul V.1. Selecția participanților
     - Subcapitolul V.2. Desfășurarea probei
