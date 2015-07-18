@@ -24,9 +24,10 @@ Cuprins:
         - [Subsecțiunea II.3. Documentația proiectului](#subsecțiunea-ii3-documentația-proiectului)
         - [Subsecțiunea II.4. Prezentarea proiectului](#subsecțiunea-ii4-prezentarea-proiectului)
 
-- Capitolul III. Instalarea proiectului
-    - Subcapitolul III.1. Programarea proiectelor
-    - Subcapitolul III.2. Instalarea proiectului
+- [Capitolul III. Instalarea proiectului](#capitolul-iii-instalarea-proiectului)
+	- [Subcapitolul III.1. Programarea proiectelor](#subcapitolul-iii1-programarea-proiectelor)
+	- [Subcapitolul III.2. Instalarea proiectului](#subcapitolul-iii2-instalarea-proiectului)
+
 - Capitolul IV. Prezentarea proiectului
     - Subcapitolul IV.1. Programarea proiectelor
     - Subcapitolul IV.2. Prezentarea proiectului
@@ -179,9 +180,18 @@ Trebuie să prezinte succint aplicația împreună cu tehnologiile folosite
 
 #Capitolul III. Instalarea proiectului
 
+În cadrul acestui secțiuni vor fi prezentatea toate prevederile legate de instalarea proiectului în vederea prezentării acestuia în cadrul competiției.
+
 ##Subcapitolul III.1. Programarea proiectelor
 
+- Juriul fiecărei secțiuni va anunța în prima zi de tabără, în cadrul ședinței tehnice, programul destinat instalării proiectelor
+- Fiecare echipă are datoria de a se prezenta cu 15 minute înainte de programarea pentru proiectul lor
+
 ##Subcapitolul III.2. Instalarea proiectului
+
+- Juriul fiecărei secțiuni va pune la dispoziția fiecărei echipe toate resursele necesare pentru instalarea / copierea proiectului pe infrastructura pusă la dispoziție
+- În cazul în care o echipă întâmpină probleme la instalarea proiectului aceasta trebuie să solicite ajutorul comisiei tehnice
+- În cazul în care o echipă nu poate instala proiectul pe infrastuctura pusă la dispoziție de membrii comisiei tehnice dim motive întemeiate aceasta poate prezenta proiectul de pe hardware-ul propriu
 
 #Capitolul IV. Prezentarea proiectului
 
