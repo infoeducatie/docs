@@ -24,9 +24,10 @@ Cuprins:
         - [Subsecțiunea II.3. Documentația proiectului](#subsecțiunea-ii3-documentația-proiectului)
         - [Subsecțiunea II.4. Prezentarea proiectului](#subsecțiunea-ii4-prezentarea-proiectului)
 
-- Capitolul III. Instalarea proiectului
-    - Subcapitolul III.1. Programarea proiectelor
-    - Subcapitolul III.2. Instalarea proiectului
+- [Capitolul III. Instalarea proiectului](#capitolul-iii-instalarea-proiectului)
+	- [Subcapitolul III.1. Programarea proiectelor](#subcapitolul-iii1-programarea-proiectelor)
+	- [Subcapitolul III.2. Instalarea proiectului](#subcapitolul-iii2-instalarea-proiectului)
+
 - Capitolul IV. Prezentarea proiectului
     - Subcapitolul IV.1. Programarea proiectelor
     - Subcapitolul IV.2. Prezentarea proiectului
