@@ -1,7 +1,7 @@
 Procedura de aplicare a regulamentului
 ----------------------------------------------
 
-Acest document conține un set de reguli ce extind și clarifică setup de reguli din regulamentul Concursului Național de proiecte IT & C InfoEducație.
+Acest document conține un set de reguli ce extind și clarifică setup de reguli din regulamentul Concursului Național de proiecte IT & C **InfoEducație**.
 
 Cuprins:
 
@@ -38,42 +38,29 @@ Cuprins:
     - Subcapitolul V.2. Desfășurarea probei
     - Subcapitolul V.3 Jurizarea proiectelor
 
-
-
 #Capitoulul I. Înscrierea lucrării în concurs
 
 În cadrul acestui capitol vor fi prezentate regulile ce trebuiesc urmate în cadrul înscrierii proiectului în concurs.
 
 ## Secțiunea I.1. Componența echipei
 
-####Articolul.I.1
-Participarea la concurs se poate face atât individual cât și în echipe de maxim două persoane.
-
-####Articolul.I.2
-Componența echipei nu se poate schimba de la etapa județeană la etapa națională a concursului.
-
-####Articolul.I.3
-Echipa va putea înscrie în concurs numai proiectele ce au fost prezentate la etapa județeană a concursului și s-au calificat pentru etapa națională a acestuia.
+1. Participarea la concurs se poate face atât individual cât și în echipe de maxim două persoane.
+2. Componența echipei nu se poate schimba de la etapa județeană la etapa națională a concursului.
+3. Echipa va putea înscrie în concurs numai proiectele ce au fost prezentate la etapa județeană a concursului și s-au calificat pentru etapa națională a acestuia.
 
 ## Secțiunea I.2. Lotul județului
 
-####Articolul.I.4
-Fiecare județ poate tremite la etapa națională a concursului un grup de maxim cinci elevi
-
-####Articolul.I.5
-Fiecare județ trebuie să trimită pentru etapa națională un număr minim de trei proiecte.
+1. Fiecare județ poate tremite la etapa națională a concursului un grup de maxim cinci elevi
+2. Fiecare județ trebuie să trimită pentru etapa națională un număr minim de trei proiecte.
 
 ## Secțiunea I.3. Înscrierea proiectului pe site-ul infoeducatie.ro
 
 ###Subsecțiunea I.1. Forumularul de înscriere
 
-####Articolul.I.6
-- Pentru a înscrie un proiect în cadrul competiției fiecare echipă trebuie să completeze formularul destinat înscrierii proiectului de pe site-ul [www.infoeducatie.ro](http://infoeducatie.ro).
-- În cazul în care echipa întâmpină probleme în completarea formularului are datoria de a anunța în cel mai scurt timp echipa de dezvoltatori, folosind adresa de email ping@infoeducatie.ro
-- Echipa de dezvoltatori are datoria de a răspunde în mai puțin de 24 de ore la orice mesaj ce semnalează o problemă
-
-####Articolul.I.7
-- În cazul în care echipa are nelămuriri legate de informațiile pe care trebuie să le ofere poate contacta membrii comisiei prin cele două canale oficiale puse la dispoziție:
+1. Pentru a înscrie un proiect în cadrul competiției fiecare echipă trebuie să completeze formularul destinat înscrierii proiectului de pe site-ul [www.infoeducatie.ro](http://infoeducatie.ro).
+2. În cazul în care echipa întâmpină probleme în completarea formularului are datoria de a anunța în cel mai scurt timp echipa de dezvoltatori, folosind adresa de email ping@infoeducatie.ro
+3. Echipa de dezvoltatori are datoria de a răspunde în mai puțin de 24 de ore la orice mesaj ce semnalează o problemă
+4. În cazul în care echipa are nelămuriri legate de informațiile pe care trebuie să le ofere poate contacta membrii comisiei prin cele două canale oficiale puse la dispoziție:
     - Forumul public al competiției: [community.infoeducatie.ro](http://community.infoeducatie.ro)
     - Adresele de mail pentru juriul de la fiecare secțiune:
         - web@infoeducatie.ro
@@ -83,35 +70,23 @@ Fiecare județ trebuie să trimită pentru etapa națională un număr minim de 
         - multimedia@infoeducatie.ro
 - În cazul în care un participant adresează o întrebare al cărui răspuns ar putea ajuta și alți paticipanți, membrii juriului pot refuza să răspundă la întrebare prin intermediul mailului și să îi solicite publicarea întrebării pe forum. 
 
-
 ###Subsecțiunea I.2. Termenul limită
 
-####Articolul.I.8
-Termenul limită pentru înscrierea proiectului este 27 Iulie, orice înscriere după această dată nu va fi luată în considerare
-
-####Articolul.I.9
-Versiunea proiectului din data de 27 Iulie va fi versiunea proiectului ce va fi prezentată în cadrul proiectului
-
-####Articolul.I.10
-Fiecare echipa are datoria de a pune la dispoziția juriului toate resursele necesare jurizării până la această data
+1. Termenul limită pentru înscrierea proiectului este 27 Iulie, orice înscriere după această dată nu va fi luată în considerare
+2. Versiunea proiectului din data de 27 Iulie va fi versiunea proiectului ce va fi prezentată în cadrul proiectului
+3. Fiecare echipa are datoria de a pune la dispoziția juriului toate resursele necesare jurizării până la această data
 
 ## Secțiunea I.4. Acceptarea lucrărilor
 
 ###Subsecțiunea I.3. Echipa de organizatori
 
-####Articolul.I.11
-Echipa de organizatori are datoria de a verifica fiecare înscriere în vederea stabilirii validității acesteia
-
-####Articolul.I.12
-Pentru orice proiect respins, echipa de organizatori are datoria de a anunța echipa în mai puțin de 24 de ore de la respingerea acesteia
+1. Echipa de organizatori are datoria de a verifica fiecare înscriere în vederea stabilirii validității acesteia
+2. Pentru orice proiect respins, echipa de organizatori are datoria de a anunța echipa în mai puțin de 24 de ore de la respingerea acesteia
 
 ###Subsecțiunea I.4. Participanții
 
-####Articolul.I.13
-Fiecare participant trebuie să ofere toate informațiile necesare validării proiectului
-
-####Articolul.I.14
-Fiecare echipă trebuie să răspundă la orice neclarități legate de lucrarea înscrisă în mai puțin de 48 de ore
+1. Fiecare participant trebuie să ofere toate informațiile necesare validării proiectului
+2. Fiecare echipă trebuie să răspundă la orice neclarități legate de lucrarea înscrisă în mai puțin de 48 de ore
 
 #Capitolul II. Resursele necesare jurizării
 
@@ -120,64 +95,41 @@ Acest capitol se referă la toate materiale, documentele și resursele adiționa
 ##Secțiunea II.1. Codul sursă
 Acesta prevedere nu se aplică pentru sectiunea Multimedia.
 
-####Articolul II.1
-Codul sursă pentru fiecare proiect trebuie să fie accesibil pe Github
+1. Codul sursă pentru fiecare proiect trebuie să fie accesibil pe Github
 
 ###Subsecțiunea II.1. Proiecte open-source
 
-####Articolul II.2
-Fiecare echipă va trebui să specifice licența utilizată. Mai multe informații pentru alegerea licenței puteți găsi [aici](choosealicense.com).
-
-####Articolul II.3
-Termenii din licența aleasă trebuie să fie respectați
+2. Fiecare echipă va trebui să specifice licența utilizată. Mai multe informații pentru alegerea licenței puteți găsi [aici](choosealicense.com).
+3. Termenii din licența aleasă trebuie să fie respectați
 
 ###Subsecțiunea II.2. Proiecte private
 
-####Articolul II.4
-- Fiecare echipă ce nu dorește să publice codul sursă pentru proiectul său, trebuie să specifice acest lucru la înscriere
-
-- În cazul în care motivul invocat nu este unul valid, organizatorii au posibilitatea de a respinge proiectul
-
-####Articolul II.5
-- Fiecare echipă ce este înscrisă în concurs cu un proiect cu surse private va primi din partea echipei de dezvoltare un repository privat gratuit pe Github
-
-- Juriul InfoEducație se obligă să nu divulge persoanelor neimplicate în jurizare conținutul proiectelor înscrise în concurs.
+1. Fiecare echipă ce nu dorește să publice codul sursă pentru proiectul său, trebuie să specifice acest lucru la înscriere
+2. În cazul în care motivul invocat nu este unul valid, organizatorii au posibilitatea de a respinge proiectul
+3. Fiecare echipă ce este înscrisă în concurs cu un proiect cu surse private va primi din partea echipei de dezvoltare un repository privat gratuit pe Github
+4. Juriul InfoEducație se obligă să nu divulge persoanelor neimplicate în jurizare conținutul proiectelor înscrise în concurs.
 
 ##Secțiunea II.2. Specificațiile proiectului
 
-####Articolul II.6
-
-- Fiecare echipă trebuie să specifice la înscrierea proiectului în cadrul competiției o listă cu specificații minime pe care organizatorii trebuie să le pună la dispoziție pentru buna funcționare a aplicației.
-
-- În cazul în care organizatorii nu pot pune la dispoziție configurația cerută de participanți aceștia sunt rugați să își pregătească toate resursele necesare pentru susținera unei prezentări demonstrative în tabără.
-
+1. Fiecare echipă trebuie să specifice la înscrierea proiectului în cadrul competiției o listă cu specificații minime pe care organizatorii trebuie să le pună la dispoziție pentru buna funcționare a aplicației.
+2. În cazul în care organizatorii nu pot pune la dispoziție configurația cerută de participanți aceștia sunt rugați să își pregătească toate resursele necesare pentru susținera unei prezentări demonstrative în tabără.
 
 ##Secțiunea II.3. Documentația proiectului
 
 Proiectul trebuie să conțină o scurtă prezentarea a acestuia și/sau o documentație.
 
-####Articolul II.7
-
-Prezentarea sau documentația trebuie să conțină o listă cu toate resursele externe folosite (tutoriale, cod autogenerat de diverse utilitare, exemple de cod etc) în caz contrar acest lucru poate duce descalificarea proiectului.
+1. Prezentarea sau documentația trebuie să conțină o listă cu toate resursele externe folosite (tutoriale, cod autogenerat de diverse utilitare, exemple de cod etc) în caz contrar acest lucru poate duce descalificarea proiectului.
 
 ###Subsecțiunea II.3. Documentația proiectului
 
-####Articolul II.8
-- Documentația proiectului nu este obligatorie pentru înscrierea în cadrul concursului dar poate conta la jurizarea proiectului
-
-- Fiecare juriu trebuie să specifice în cadrul criteriilor de jurizare dacă documentația va fi punctată și care este modul în care trebuie structurată
+1. Documentația proiectului nu este obligatorie pentru înscrierea în cadrul concursului dar poate conta la jurizarea proiectului
+2. Fiecare juriu trebuie să specifice în cadrul criteriilor de jurizare dacă documentația va fi punctată și care este modul în care trebuie structurată
 
 ###Subsecțiunea II.4. Prezentarea proiectului
 
-####Articolul II.9
-Prezentarea proiectului trebuie să aibă maxim 5 pagini
-
-####Articolul II.10
-Trebuie să prezinte succint aplicația împreună cu tehnologiile folosite
-
-####Articolul II.11
-În cadrul acesteia nu trebuie să apară fragmente de cod sursă sau capturi de ecran.
-
+1. Prezentarea proiectului trebuie să aibă maxim 5 pagini
+2. Trebuie să prezinte succint aplicația împreună cu tehnologiile folosite
+3. În cadrul acesteia nu trebuie să apară fragmente de cod sursă sau capturi de ecran.
 
 #Capitolul III. Instalarea proiectului
 
@@ -185,35 +137,35 @@ Trebuie să prezinte succint aplicația împreună cu tehnologiile folosite
 
 ##Subcapitolul III.1. Programarea proiectelor
 
-- Juriul fiecărei secțiuni va anunța în prima zi de tabără, în cadrul ședinței tehnice, programul destinat instalării proiectelor
-- Fiecare echipă are datoria de a se prezenta cu 15 minute înainte de programarea pentru proiectul lor
+1. Juriul fiecărei secțiuni va anunța în prima zi de tabără, în cadrul ședinței tehnice, programul destinat instalării proiectelor
+2. Fiecare echipă are datoria de a se prezenta cu 15 minute înainte de programarea pentru proiectul lor
 
 ##Subcapitolul III.2. Instalarea proiectului
 
-- Juriul fiecărei secțiuni va pune la dispoziția fiecărei echipe toate resursele necesare pentru instalarea / copierea proiectului pe infrastructura pusă la dispoziție
-- În cazul în care o echipă întâmpină probleme la instalarea proiectului aceasta trebuie să solicite ajutorul comisiei tehnice
-- În cazul în care o echipă nu poate instala proiectul pe infrastuctura pusă la dispoziție de membrii comisiei tehnice dim motive întemeiate aceasta poate prezenta proiectul de pe hardware-ul propriu
+1. Juriul fiecărei secțiuni va pune la dispoziția fiecărei echipe toate resursele necesare pentru instalarea / copierea proiectului pe infrastructura pusă la dispoziție
+2. În cazul în care o echipă întâmpină probleme la instalarea proiectului aceasta trebuie să solicite ajutorul comisiei tehnice
+3. În cazul în care o echipă nu poate instala proiectul pe infrastuctura pusă la dispoziție de membrii comisiei tehnice dim motive întemeiate aceasta poate prezenta proiectul de pe hardware-ul propriu
 
 #Capitolul IV. Prezentarea proiectului
 
 ##Subcapitolul IV.1. Programarea proiectelor
-- Juriul fiecărei secțiuni va anunța după instalarea proiectelor programul destinat instalării proiectelor
-- Programul prezentărilor va fi afișat pe pagina de intranet din tabără
-- Fiecare echipă are datoria de a se prezenta cu 15 minute înainte de programarea
+1. Juriul fiecărei secțiuni va anunța după instalarea proiectelor programul destinat instalării proiectelor
+2. Programul prezentărilor va fi afișat pe pagina de intranet din tabără
+3. Fiecare echipă are datoria de a se prezenta cu 15 minute înainte de programarea
 
 ##Subcapitolul IV.2. Prezentarea proiectului
-- Înainte de începerea jurizărilor membrii juriului pentru fiecare comisie trebuie să anunțe eventualele modificări pentru structura prezentării. Structura recomandată pentru prezentări este următoarea: 
+1. Înainte de începerea jurizărilor membrii juriului pentru fiecare comisie trebuie să anunțe eventualele modificări pentru structura prezentării. Structura recomandată pentru prezentări este următoarea: 
 	- 3 minute verificarea resurselor necesare pentru prezentare
 	- 10 minute prezentarea proiectului
 	- 5 minute întrebări din partea juriului
 	- 2 minute întrebări din partea juriului
-- Fiecare echipă are datoria de a verifica resursele necesare înainte de începerea prezentării
-- În cazul în care echipa nu se încadrează în timpul pus la dispoziție membrii juriului pot cere întreruperea prezentării
+2. Fiecare echipă are datoria de a verifica resursele necesare înainte de începerea prezentării
+3. În cazul în care echipa nu se încadrează în timpul pus la dispoziție membrii juriului pot cere întreruperea prezentării
 
 ##Subcapitolul IV.3. Jurizarea proiectului
-- Membrii juriului trebuie să analizeze toate resursele primite de la participanți și să le puncteze în funcție de specificațiile din criteriile de jurizare
-- În cazul în care există neclarități privitoare la resursele oferite juriului, echipa în cauză trebuie să ofere toate clarificările necesare membrilor comisiei
-- În cazul în care o parte dintre resursele relevante lipsesc, membrii comisiei nu vor puncta proiectul în cauză
+1. Membrii juriului trebuie să analizeze toate resursele primite de la participanți și să le puncteze în funcție de specificațiile din criteriile de jurizare
+2. În cazul în care există neclarități privitoare la resursele oferite juriului, echipa în cauză trebuie să ofere toate clarificările necesare membrilor comisiei
+3. În cazul în care o parte dintre resursele relevante lipsesc, membrii comisiei nu vor puncta proiectul în cauză
 
 #Capitolul V. Proba Open
 
