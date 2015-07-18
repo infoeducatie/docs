@@ -196,10 +196,23 @@ Trebuie să prezinte succint aplicația împreună cu tehnologiile folosite
 #Capitolul IV. Prezentarea proiectului
 
 ##Subcapitolul IV.1. Programarea proiectelor
+- Juriul fiecărei secțiuni va anunța după instalarea proiectelor programul destinat instalării proiectelor
+- Programul prezentărilor va fi afișat pe pagina de intranet din tabără
+- Fiecare echipă are datoria de a se prezenta cu 15 minute înainte de programarea
 
 ##Subcapitolul IV.2. Prezentarea proiectului
+- Înainte de începerea jurizărilor membrii juriului pentru fiecare comisie trebuie să anunțe eventualele modificări pentru structura prezentării. Structura recomandată pentru prezentări este următoarea: 
+	- 3 minute verificarea resurselor necesare pentru prezentare
+	- 10 minute prezentarea proiectului
+	- 5 minute întrebări din partea juriului
+	- 2 minute întrebări din partea juriului
+- Fiecare echipă are datoria de a verifica resursele necesare înainte de începerea prezentării
+- În cazul în care echipa nu se încadrează în timpul pus la dispoziție membrii juriului pot cere întreruperea prezentării
 
 ##Subcapitolul IV.3. Jurizarea proiectului
+- Membrii juriului trebuie să analizeze toate resursele primite de la participanți și să le puncteze în funcție de specificațiile din criteriile de jurizare
+- În cazul în care există neclarități privitoare la resursele oferite juriului, echipa în cauză trebuie să ofere toate clarificările necesare membrilor comisiei
+- În cazul în care o parte dintre resursele relevante lipsesc, membrii comisiei nu vor puncta proiectul în cauză
 
 #Capitolul V. Proba Open
 
