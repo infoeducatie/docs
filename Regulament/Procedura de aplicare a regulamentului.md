@@ -33,10 +33,12 @@ Cuprins:
 	- [Subcapitolul IV.2. Prezentarea proiectului](#subcapitolul-iv2-prezentarea-proiectului)
 	- [Subcapitolul IV.3. Jurizarea proiectului](#subcapitolul-iv3-jurizarea-proiectului)
 
-- Capitolul V. Proba Open
-    - Subcapitolul V.1. Selecția participanților
-    - Subcapitolul V.2. Desfășurarea probei
-    - Subcapitolul V.3 Jurizarea proiectelor
+
+- [Capitolul V. Proba Open](#capitolul-v-proba-open)
+    - [Subcapitolul V.1. Selecția participanților](#subcapitolul-v1-selecția-participanților)
+    - [Subcapitolul V.2. Desfășurarea probei](#subcapitolul-v2-desfășurarea-probei)
+    - [Subcapitolul V.3 Jurizarea proiectelor](#subcapitolul-v3-jurizarea-proiectelor)
+
 
 #Capitoulul I. Înscrierea lucrării în concurs
 
@@ -170,7 +172,16 @@ Proiectul trebuie să conțină o scurtă prezentarea a acestuia și/sau o docum
 #Capitolul V. Proba Open
 
 ##Subcapitolul V.1. Selecția participanților
+- După prezentarea proiectului juriul va pregăti clasamentul pentru toate proiectele jurizate
+- Punctajele pentru primele cinci echipe clasate, la fiecare secțiune, nu vor fi afișate
+- Primele cinci echipe de la fiecare secțiune se vor califica în proba "Open"
 
 ##Subcapitolul V.2. Desfășurarea probei
+- Juriul de la fiecare secțiune va propune o temă pe care participanții trebuie să o implementeze în 24 de ore
+- Fiecare echipă trebuie să dezvolte în cele 24 de ore disponibile un proiect ce să respecte specificațiile juriului
+- În cazul în care specificațiile nu sunt suficient de clare sau explicite membrii juriului vor răspunde la orice întrebare din partea participanților
 
 ##Subcapitolul V.3 Jurizarea proiectelor
+
+- După cele 24 de ore, fiecare participant va prezenta proiectul realizat în fața juriului
+- Proiectul va fi jurizat de către juriu folosind aceleași criterii ca și la etapa anterioară
