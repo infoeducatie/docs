@@ -33,10 +33,12 @@ Cuprins:
 	- [Subcapitolul IV.2. Prezentarea proiectului](#subcapitolul-iv2-prezentarea-proiectului)
 	- [Subcapitolul IV.3. Jurizarea proiectului](#subcapitolul-iv3-jurizarea-proiectului)
 
-- Capitolul V. Proba Open
-    - Subcapitolul V.1. Selecția participanților
-    - Subcapitolul V.2. Desfășurarea probei
-    - Subcapitolul V.3 Jurizarea proiectelor
+
+- [Capitolul V. Proba Open](#capitolul-v-proba-open)
+    - [Subcapitolul V.1. Selecția participanților](#subcapitolul-v1-selecția-participanților)
+    - [Subcapitolul V.2. Desfășurarea probei](#subcapitolul-v2-desfășurarea-probei)
+    - [Subcapitolul V.3 Jurizarea proiectelor](#subcapitolul-v3-jurizarea-proiectelor)
+
 
 #Capitoulul I. Înscrierea lucrării în concurs
 
