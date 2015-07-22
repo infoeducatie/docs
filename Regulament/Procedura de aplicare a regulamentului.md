@@ -52,7 +52,7 @@ Cuprins:
 
 ## Secțiunea I.2. Lotul județului
 
-1. Fiecare județ poate tremite la etapa națională a concursului un grup de maxim cinci elevi
+1. Fiecare județ poate trimite la etapa națională a concursului un grup de maxim cinci elevi
 2. Fiecare județ trebuie să trimită pentru etapa națională un număr minim de trei proiecte.
 
 ## Secțiunea I.3. Înscrierea proiectului pe site-ul infoeducatie.ro
@@ -75,8 +75,8 @@ Cuprins:
 ###Subsecțiunea I.2. Termenul limită
 
 1. Termenul limită pentru înscrierea proiectului este 27 Iulie, orice înscriere după această dată nu va fi luată în considerare
-2. Versiunea proiectului din data de 27 Iulie va fi versiunea proiectului ce va fi prezentată în cadrul proiectului
-3. Fiecare echipa are datoria de a pune la dispoziția juriului toate resursele necesare jurizării până la această data
+2. Versiunea proiectului din data de 27 Iulie va fi versiunea proiectului ce va fi prezentată în cadrul concursului
+3. Fiecare echipă are datoria de a pune la dispoziția juriului toate resursele necesare jurizării până la această dată
 
 ## Secțiunea I.4. Acceptarea lucrărilor
 
