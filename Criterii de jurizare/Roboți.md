@@ -3,10 +3,10 @@ Criterii de jurizare - InfoEducație 2015
 Secțiunea Roboti 
 --------------------
 
-- [Capitolul I. Utilitate practica](#capitolul-i-utilitate-practica-10-puncte) 10 puncte
+- [Capitolul I. Utilitate practică](#capitolul-i-utilitate-practică-10-puncte) 10 puncte
 - [Capitolul II. Mecanica](#capitolul-ii-mecanica-20-puncte) 20 puncte
     - [Secțiunea II.1. Complexitate](#secțiunea-ii1-complexitate)
-    - [Secțiunea II.2. Eficienta in constructie](#secțiunea-ii2-eficienta-in-constructie)
+    - [Secțiunea II.2. Eficiența în construcție](#secțiunea-ii2-eficiența-în-construcție)
 - [Capitolul III. Electronica](#capitolul-iii-electronica-20-puncte) 20 puncte
     - [Secțiunea III.1. Complexitate](#secțiunea-iii1-complexitate)
 - [Capitolul IV. Software](#capitolul-iv-software-20-puncte) 20 puncte
@@ -15,63 +15,93 @@ Secțiunea Roboti
 - [Observaţii](#observaţii)
 
 
-#Capitolul I. Utilitate practica    **10 puncte**
+#Capitolul I. Utilitate practică **10 puncte**
 
-- Robotul trebuie sa rezolve o problema
-- In ce masura lucrarea prezentata rezolva problema expusa
-- In ce masura problema expusa este rezolvata mai eficient utilizand robotul decat prin alte metode 
+- Robotul trebuie să rezolve o problemă
+- În ce măsură lucrarea prezentată rezolvă problema expusă
+- În ce măsură problema expusă este rezolvată eficient utilizând robotul decât prin alte metode 
 
-#Capitolul II. Mecanica     **20 puncte**
+#Capitolul II. Mecanica **20 puncte**
 
 ##Secțiunea II.1. Complexitate
-- Numar de motoare
-- Grade de libertate in miscare ale diverselor componente
+- Număr de motoare
+- Gradele de libertate în mișcare ale diverselor componente
 
-##Secțiunea II.2. Eficienta in constructie:
-- Indeplinirea sarcinilor cu consum minim de energie
-- Poseda o sursa de energie regenerabila (acumulatorii nu sunt  considerati sursa de energie, deoarece doar inmagazineaza energie). In ce masura sursa de energie satisface necesitatile robotului (timp de acumulare versus timp de functionare).
+##Secțiunea II.2. Eficiența în construcție
+- Îndeplinirea sarcinilor cu consum minim de energie
+- Posedă o sursă de energie regenerabilă (acumulatorii nu sunt  considerați sursă de energie, deoarece doar înmagazinează energie). În ce măsură sursa de energie satisface necesitățile robotului (timp de acumulare versus timp de funcționare).
 
-#Capitolul III. Electronica     **20 puncte**
+#Capitolul III. Electronica **20 puncte**
 
-Tipuri diferite de senzori folositi. Ce fenomene masoara fiecare, in ce intervale posibile de intrare. Cum e folosita masuratoarea pentru rezolvarea problemei. Nu incurajam folosirea nejustificata de senzori in incercarea de a obtine punctaj.
+Tipuri diferite de senzori folosiți. Ce fenomene măsoară fiecare, în ce intervale posibile de intrare. Cum e folosită măsurătoarea pentru rezolvarea problemei. 
 
-**Arhitectura**: complexitatea circuitului electronic. Documentatia va contine descrierea fiecarei componente folosita si se va justifica alegerea. Se porneste in ordine descrescatoare a complexitatii (microprocesoare/microcontrollere, circuite logice, componente electronice active). Nu se descriu componente electronice pasive.
+**Atenție** *Nu încurajăm folosirea nejustificată de senzori în incercarea de a obține punctaj.*
+
+**Arhitectura**: complexitatea circuitului electronic. Documentația va conține descrierea fiecărei componente folosită și se va justifica alegerea. 
+
+Se pornește în ordine descrescătoare a complexității:
+
+- microprocesoare
+- microcontrollere
+- circuite logice,
+- componente electronice active
+
+**Atenție** *Nu se descriu componentele electronice pasive.*
 
 ##Secțiunea III.1. Complexitate
 
-Se puncteaza in ordine descrescatoare:
+Se punctează în ordine descrescătoare:
 
-- Robot complet autonom in mediu necunoscut
-- Robot autonom in mediu cunoscut
-- Robot pre-programat sa rezolve o problema cu date de intrare  variabile, conform unor specificatii (ex: line follower, maze solver)
+- Robot complet autonom în mediu necunoscut
+- Robot autonom în mediu cunoscut
+- Robot pre-programat să rezolve o problemă cu date de intrare  variabile, conform unor specificații (de exemplu: *line follower*, *maze solver*)
 - Robot telecomandat
-- Robot pre-programat sa rezolve o problema cu date de intrare pre-definite fixe (Ex: robot pe line de linie de asamblare).
+- Robot pre-programat să rezolve o problemă cu date de intrare pre-definite fixe (de exemplu: robot pe linie de asamblare).
 
 
 #Capitolul IV. Software  **20 puncte**
 
-- Programe independente fara parametrizare. Utilizatorul nu poate afecta executia programului robotului.
-Programe independente cu interfete utilizator (pot fi implementate prin switch-uri, potentiometre, touchscreen, etc)
-- Programe care ruleaza in regim client-server cu serverul pe robot si client remote.
-- Programe care ruleaza in regim client-server cu serverul remote si clientul pe robot. Robotul se conecteaza la server pentru a primi instructiuni/task-uri, informatii necesare rularii.
-- Programe cu agenti care comunica si colaboreaza pentru a indeplini functiunea (un numar de minim 2 roboti colaboreaza schimband informatii intre ei).
+- Programe independente fără parametrizare. Utilizatorul nu poate afecta execuția programului robotului.
+Programe independente cu interfețe pentru utilizator (pot fi implementate prin switch-uri, potențiometre, touchscreen, etc)
+- Programe care rulează în regim client-server cu serverul pe robot și client remote.
+- Programe care ruleaza în regim client-server cu serverul remote și clientul pe robot. Robotul se conecteaza la server pentru a primi instrucțiuni / task-uri, informații necesare rulării.
+- Programe cu agenți care comunică și colaborează pentru a îndeplini funcțiunea (un număr de minim 2 roboți colaborează schimbând informații între ei).
 
 #Capitolul V. Design industrial **15 puncte**
 
-- Designul trebuie sa fie simplu, functional si sa permita automatizarea procesului de productie.
+- Designul trebuie să fie simplu, funcțional și să permită automatizarea procesului de producție.
 
 #Capitolul VI. Prezentare **15 puncte**
 
-- Prezentarea scrisa. Trebuie sa contina detalii despre primele 4 sectiuni astfel incat sa se poata face punctarea (Utilitate practica, Mecanica, Electronica, Software). Pentru fiecare sectiune, argumentati cu detalii ce caracteristici indeplineste robotul construit.
-- Prezentarea pe suport electronic: trebuie sa contina scheme,  diagrame, documentatie si cod sursa folosit pentru implementarea robotului, precum si o versiune PDF a prezentarii scrise. Scheme si diagrame vor fi in format PNG, SVG sau PDF.
-- Demonstratia in cadrul concursului. Se va face dovada ca robotul functioneaza si ca toate aspectele continute in prezentarea scrisa sunt functionale. Se va raspunde la intrebari din parea juriului legate de prezentarea scrisa. Se va raspunde la intrebari din partea celorlalti participanti sau a observatorilor. 
-- Prezentarea scrisa este la fel de importanta ca si demonstratia. E posibil ca anumite aspecte ale lucrarii sa nu poata fi evaluate in cadrul demonstratiei, dar vor fi punctate daca exista in prezentarea scrisa.    
+- Demonstrația în cadrul concursului va face dovadă că robotul funcționează și că toate aspectele conținute în prezentarea scrisă sunt funcționale. 
+    - Se va raspunde la întrebări din parea juriului legate de prezentarea scrisă.
+    - Se va raspunde la întrebări din partea celorlalți participanți sau a observatorilor. 
+- Prezentarea scrisă este la fel de importantă ca și demonstrația.
+- Este posibil ca anumite aspecte ale lucrării să nu poată fi evaluate în cadrul demonstrației, dar vor fi punctate dacă există în prezentarea scrisa.    
+
+##Secțiunea VI.1. Prezentarea scrisă
+
+Trebuie să conțină detalii despre primele patru secțiuni astfel încât să se poată face punctarea:
+
+1. Utilitate practica
+2. Mecanica
+3. Electronica
+4. Software)
+
+Pentru fiecare sectiune, argumentați detaliat ce caracteristici îndeplinește robotul construit.
+
+##Secțiunea VI.2. Prezentarea pe suport electronic
+
+- Trebuie să conțină scheme,  diagrame, documentație și codul sursă folosit pentru implementarea robotului, precum și o versiune PDF a prezentării scrise.
+- Schemele și diagramele vor fi în format PNG, SVG sau PDF.
+
 
 #Observaţii
 
-**Scopul urmarit**: incurajarea elevilor sa invete cum se construieste si cum se programeaza un robot.
-Avand in vedere ca lucrarile inscrise in concurs difera extrem de mult in privinta functionalitatii implementate nu urmarim o comparatie directa intre lucrari, ci incercam sa punctam munca depusa de participant si rezultatele obtinute in relatie cu scopul propus. Bineinteles scopul in sine va influenta punctarea, o lucrare mai putin ambitioasa, de complexitate redusa, executata perfect e posibil sa fie punctata mai putin decat o lucrare de complexitate ridicata cu deficiente minore. 
+**Scopul urmarit**: încurajarea elevilor să învețe cum se construiește și cum se programează un robot.
 
-Criteriile de evaluare urmaresc sa puna in evidenta cat numarul de notiuni teoretice si tehnici de implementare cunoscute si demonstrate de elevi atat in faza de implementare a lucrarii cat si la prezentarea acesteia.
+Având în vedere că lucrarile înscrise în concurs diferă extrem de mult în privința functionalității implementate nu urmărim o comparație directă între lucrări, ci încercăm să punctăm munca depusă de participanți și rezultatele obținute în relație cu scopul propus. Bineînteles scopul în sine va influența punctarea (o lucrare mai puțin ambițioasă, de complexitate redusă, executată perfect este posibil să fie punctată mai puțin decât o lucrare de complexitate ridicata cu deficiențe minore). 
 
-Pentru fiecare dintre sectiunile de mai jos se vor acorda puncte, punctajul final fiind realizat prin insumarea punctelor pentru fiecare criteriu.
+Criteriile de evaluare urmăresc să pună în evidență numărul de noțiuni teoretice și tehnici de implementare cunoscute și demonstrate de către elevi atât în faza de implementare a lucrării cât și la prezentarea acesteia.
+
+Pentru fiecare dintre secțiunile de mai sus se vor acorda puncte, punctajul final fiind realizat prin însumarea punctelor pentru fiecare criteriu.
