@@ -12,6 +12,8 @@ Secțiunea Roboti
 - [Capitolul IV. Software](#capitolul-iv-software-20-puncte) 20 puncte
 - [Capitolul V. Design industrial](#capitolul-v-design-industrial-15-puncte) 15 puncte
 - [Capitolul VI. Prezentare](#capitolul-vi-prezentare-15-puncte) 15 puncte
+    - [Secțiunea VI.1. Prezentarea scrisă](#secțiunea-vi1-prezentarea-scrisă)
+    - [Secțiunea VI.2. Prezentarea pe suport electronic](#secțiunea-vi2-prezentarea-pe-suport-electronic)
 - [Observaţii](#observaţii)
 
 
