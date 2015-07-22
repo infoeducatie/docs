@@ -3,6 +3,17 @@ Criterii de jurizare - InfoEducație 2015
 Secțiunea Roboti 
 --------------------
 
+- [Capitolul I. Utilitate practica](#capitolul-i-utilitate-practica-10-puncte) 10 puncte
+- [Capitolul II. Mecanica](#capitolul-ii-mecanica-20-puncte) 20 puncte
+    - [Secțiunea II.1. Complexitate](#secțiunea-ii1-complexitate)
+    - [Secțiunea II.2. Eficienta in constructie](#secțiunea-ii2-eficienta-in-constructie)
+- [Capitolul III. Electronica](#capitolul-iii-electronica-20-puncte) 20 puncte
+    - [Secțiunea III.1. Complexitate](#secțiunea-iii1-complexitate)
+- [Capitolul IV. Software](#capitolul-iv-software-20-puncte) 20 puncte
+- [Capitolul V. Design industrial](#capitolul-v-design-industrial-15-puncte) 15 puncte
+- [Capitolul VI. Prezentare](#capitolul-vi-prezentare-15-puncte) 15 puncte
+- [Observaţii](#observaţii)
+
 
 #Capitolul I. Utilitate practica    **10 puncte**
 
