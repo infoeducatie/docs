@@ -52,7 +52,7 @@ Cuprins:
 
 ## Secțiunea I.2. Lotul județului
 
-1. Fiecare județ poate trimite la etapa națională a concursului un grup de maxim cinci elevi, excepție Municipiul Bucurețti care poate trimite un frup de 12 elevi.
+1. Fiecare județ poate trimite la etapa națională a concursului un grup de maxim cinci elevi, excepție Municipiul București care poate trimite un grup de 12 elevi.
 
 
 ## Secțiunea I.3. Înscrierea proiectului pe site-ul infoeducatie.ro
