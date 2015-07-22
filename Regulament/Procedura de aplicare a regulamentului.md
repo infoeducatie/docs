@@ -5,7 +5,7 @@ Acest document conține un set de reguli ce extind și clarifică setup de regul
 
 Cuprins:
 
-- [Capitoulul I. Înscrierea lucrării în concurs](#capitoulul-i-înscrierea-lucrării-în-concurs)
+- [Capitolul I. Înscrierea lucrării în concurs](#capitolul-i-înscrierea-lucrării-în-concurs)
     - [Secțiunea I.1. Componența echipei](#secțiunea-i1-componența-echipei)
     - [Secțiunea I.2. Lotul județului](#secțiunea-i2-lotul-județului)
     - [Secțiunea I.3. Înscrierea proiectului pe site-ul infoeducatie.ro](#secțiunea-i3-înscrierea-proiectului-pe-site-ul-infoeducatiero)
@@ -40,9 +40,9 @@ Cuprins:
     - [Subcapitolul V.3 Jurizarea proiectelor](#subcapitolul-v3-jurizarea-proiectelor)
 
 
-#Capitoulul I. Înscrierea lucrării în concurs
+#Capitolul I. Înscrierea lucrării în concurs
 
-În cadrul acestui capitol vor fi prezentate regulile ce trebuie urmate în cadrul înscrierii proiectului în concurs.
+În acest capitol sunt prezentate regulile legate de înscrierea proiectului în concurs.
 
 ## Secțiunea I.1. Componența echipei
 
@@ -60,7 +60,7 @@ Cuprins:
 ###Subsecțiunea I.1. Formularul de înscriere
 
 1. Pentru a înscrie un proiect în cadrul competiției fiecare echipă trebuie să completeze formularul destinat înscrierii proiectului de pe site-ul [www.infoeducatie.ro](http://infoeducatie.ro).
-2. În cazul în care echipa întâmpină probleme în completarea formularului are datoria de a anunța în cel mai scurt timp echipa de dezvoltatori, folosind adresa de email ping@infoeducatie.ro
+2. În cazul în care echipa întâmpină probleme în completarea formularului are datoria de a anunța în cel mai scurt timp echipa de dezvoltatori, folosind adresa de email ping@infoeducatie.ro.
 3. Echipa de dezvoltatori are obligația de a răspunde în mai puțin de 24 de ore la orice mesaj ce semnalează o problemă.
 4. În cazul în care echipa are nelămuriri legate de informațiile pe care trebuie să le ofere poate contacta membrii comisiei prin cele două canale oficiale puse la dispoziție:
     - Forumul public al competiției: [community.infoeducatie.ro](http://community.infoeducatie.ro)
@@ -95,9 +95,9 @@ Cuprins:
 Acest capitol se referă la toate materiale, documentele și resursele adiționale pe care o echipă trebuie să le pună la dispoziția membrilor juriului și a organizatorilor pentru ca înscrierea în concurs să fie considerată validă.
 
 ##Secțiunea II.1. Codul sursă
-Acesta prevedere nu se aplică pentru sectiunea Multimedia.
+Această prevedere nu se aplică pentru secțiunea Multimedia.
 
-1. Codul sursă pentru fiecare proiect trebuie să fie accesibil pe Github
+1. Codul sursă pentru fiecare proiect trebuie să fie accesibil pe GitHub.
 
 ###Subsecțiunea II.1. Proiecte open-source
 
@@ -135,12 +135,12 @@ Proiectul trebuie să conțină o scurtă prezentarea a acestuia și/sau o docum
 
 #Capitolul III. Instalarea proiectului
 
-În cadrul acestui secțiuni vor fi prezentatea toate prevederile legate de instalarea proiectului în vederea prezentării acestuia în cadrul competiției.
+În acest capitol sunt descrise procedeele de instalare a proiectelor în vederea prezentării lor în cadrul competiției.
 
 ##Subcapitolul III.1. Programarea proiectelor
 
-1. Juriul fiecărei secțiuni va anunța în prima zi de tabără, în cadrul ședinței tehnice, programul destinat instalării proiectelor
-2. Fiecare echipă are datoria de a se prezenta cu 15 minute înainte de programarea pentru proiectul lor
+1. Juriul fiecărei secțiuni va anunța în prima zi de tabără, în timpul ședinței tehnice, programul destinat instalării proiectelor.
+2. Fiecare echipă are datoria de a se prezenta cu 15 minute înainte de programarea proiectului lor.
 
 ##Subcapitolul III.2. Instalarea proiectului
 
@@ -157,10 +157,10 @@ Proiectul trebuie să conțină o scurtă prezentarea a acestuia și/sau o docum
 
 ##Subcapitolul IV.2. Prezentarea proiectului
 1. Înainte de începerea jurizărilor membrii juriului pentru fiecare comisie trebuie să anunțe eventualele modificări pentru structura prezentării. Structura recomandată pentru prezentări este următoarea: 
-	- 3 minute verificarea resurselor necesare pentru prezentare
-	- 10 minute prezentarea proiectului
-	- 5 minute întrebări din partea juriului
-	- 2 minute întrebări din partea publicului
+	- 3 minute verificarea resurselor necesare pentru prezentare.
+	- 10 minute prezentarea proiectului.
+	- 5 minute întrebări din partea juriului.
+	- 2 minute întrebări din partea publicului.
 2. Fiecare echipă are datoria de a verifica resursele necesare înainte de începerea prezentării.
 3. În cazul în care echipa nu se încadrează în timpul pus la dispoziție membrii juriului pot cere întreruperea prezentării.
 
@@ -172,9 +172,9 @@ Proiectul trebuie să conțină o scurtă prezentarea a acestuia și/sau o docum
 #Capitolul V. Proba Open
 
 ##Subcapitolul V.1. Selecția participanților
-- După prezentarea proiectului juriul va pregăti clasamentul pentru toate proiectele jurizate
-- Punctajele pentru primele cinci echipe clasate, la fiecare secțiune, nu vor fi afișate
-- Primele cinci echipe de la fiecare secțiune se vor califica în proba "Open"
+- După prezentarea proiectului juriul va pregăti clasamentul pentru toate proiectele jurizate.
+- Punctajele pentru primele cinci echipe clasate, la fiecare secțiune, nu vor fi afișate.
+- Primele cinci echipe de la fiecare secțiune se vor califica în proba "Open".
 
 ##Subcapitolul V.2. Desfășurarea probei
 - Juriul de la fiecare secțiune va propune o temă pe care participanții trebuie să o implementeze în 24 de ore.
@@ -183,5 +183,5 @@ Proiectul trebuie să conțină o scurtă prezentarea a acestuia și/sau o docum
 
 ##Subcapitolul V.3 Jurizarea proiectelor
 
-- După cele 24 de ore, fiecare participant va prezenta proiectul realizat în fața juriului
-- Proiectul va fi jurizat de către juriu folosind aceleași criterii ca și la etapa anterioară
+- După cele 24 de ore, fiecare participant va prezenta proiectul realizat în fața juriului.
+- Proiectul va fi jurizat de către juriu folosind aceleași criterii ca la etapa anterioară.
