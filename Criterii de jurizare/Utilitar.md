@@ -148,7 +148,8 @@ Vor fi punctate elemente ce țin de maniera de prezentare și justificare a nece
 - Raspunsuri de cel putin un paragraf pentru urmatoarele intrebari:
 	- Justificarea folosirii tehnologiilor alese.
 	- Opinia autorului/autorilor despre ideea ce stă la baza proiectului implementat, dar și utilitatea acestuia pentru publicul ei țintă (minim 1 exemplu).
-	- 
+
+
 #Capitolul V. Resurse obligatorii
 Următoarele resurse nu trebuie să lipsească din pachetul pe care participanții îl vor oferi juriului. În cazul în care aceste resurse lipsesc, proiectul nu va putea fi jurizat. Prin resurse înțelegem codul sursă împreună cu bibliotecile și fișierele necesare compilării și funcționării.
 
