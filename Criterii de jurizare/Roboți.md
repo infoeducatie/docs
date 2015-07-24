@@ -31,13 +31,13 @@ Secțiunea Roboti
 
 ##Secțiunea II.2. Eficiența în construcție
 - Îndeplinirea sarcinilor cu consum minim de energie
-- Posedă o sursă de energie regenerabilă (acumulatorii nu sunt  considerați sursă de energie, deoarece doar înmagazinează energie). În ce măsură sursa de energie satisface necesitățile robotului (timp de acumulare versus timp de funcționare).
+- Posedă o sursă de energie regenerabilă (acumulatorii nu sunt considerați sursă de energie, deoarece doar înmagazinează energie). În ce măsură sursa de energie satisface necesitățile robotului (timp de acumulare versus timp de funcționare).
 
 #Capitolul III. Electronica **20 puncte**
 
 Tipuri diferite de senzori folosiți. Ce fenomene măsoară fiecare, în ce intervale posibile de intrare. Cum e folosită măsurătoarea pentru rezolvarea problemei. 
 
-**Atenție** *Nu încurajăm folosirea nejustificată de senzori în incercarea de a obține punctaj.*
+**Atenție** *Nu încurajăm folosirea nejustificată de senzori în încercarea de a obține punctaj.*
 
 **Arhitectura**: complexitatea și eficiența circuitului electronic. Documentația va conține descrierea fiecărei componente folosită și se va justifica alegerea. 
 
