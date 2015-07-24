@@ -21,7 +21,7 @@ Secțiunea Roboti
 
 - Robotul trebuie să rezolve o problemă
 - În ce măsură lucrarea prezentată rezolvă problema expusă
-- În ce măsură problema expusă este rezolvată eficient utilizând robotul decât prin alte metode 
+- În ce măsură problema expusă este rezolvată mai eficient utilizând robotul decât prin alte metode 
 
 #Capitolul II. Mecanica **20 puncte**
 
@@ -39,13 +39,13 @@ Tipuri diferite de senzori folosiți. Ce fenomene măsoară fiecare, în ce inte
 
 **Atenție** *Nu încurajăm folosirea nejustificată de senzori în incercarea de a obține punctaj.*
 
-**Arhitectura**: complexitatea circuitului electronic. Documentația va conține descrierea fiecărei componente folosită și se va justifica alegerea. 
+**Arhitectura**: complexitatea și eficiența circuitului electronic. Documentația va conține descrierea fiecărei componente folosită și se va justifica alegerea. 
 
 Se pornește în ordine descrescătoare a complexității:
 
 - microprocesoare
 - microcontrollere
-- circuite logice,
+- circuite logice
 - componente electronice active
 
 **Atenție** *Nu se descriu componentele electronice pasive.*
@@ -69,6 +69,8 @@ Programe independente cu interfețe pentru utilizator (pot fi implementate prin 
 - Programe care ruleaza în regim client-server cu serverul remote și clientul pe robot. Robotul se conecteaza la server pentru a primi instrucțiuni / task-uri, informații necesare rulării.
 - Programe cu agenți care comunică și colaborează pentru a îndeplini funcțiunea (un număr de minim 2 roboți colaborează schimbând informații între ei).
 
+Se va puncta atât gradul de complexitate (un program independent va fi punctat mai bine decat unul care trebuie controlat de un operator), cât și coding style-ul(respectarea unui coding style va fi punctată suplimentar) și eficiența codului(de ex. vor fi depunctate operațiile blocante care puteau fi evitate).
+
 #Capitolul V. Design industrial **15 puncte**
 
 - Designul trebuie să fie simplu, funcțional și să permită automatizarea procesului de producție.
@@ -88,7 +90,7 @@ Trebuie să conțină detalii despre primele patru secțiuni astfel încât să 
 1. Utilitate practica
 2. Mecanica
 3. Electronica
-4. Software)
+4. Software
 
 Pentru fiecare sectiune, argumentați detaliat ce caracteristici îndeplinește robotul construit.
 
