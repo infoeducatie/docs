@@ -3,11 +3,11 @@
 Secțiunea Software Utilitar 
 --------------------
 
-- [Capitolul I. Arhitectura aplicației](#capitolul-i-arhitectura-aplicației-30-puncte) - **30 puncte**
+- [Capitolul I. Arhitectura aplicației](#capitolul-i-arhitectura-aplicației-25-puncte) - **25 puncte**
 	- [Secțiunea I.1. Alegerea tematicii](#secțiunea-i1-alegerea-tematicii)
 	- [Secțiunea I.2. Proiectarea arhitecturală](#secțiunea-i2-proiectarea-arhitecturală)
 	- [Secțiunea I.3. Analiza pieței](#secțiunea-i3-analiza-pieței)
-- [Capitolul II. Implementarea aplicației](#capitolul-ii-implementarea-aplicației-40-puncte) - **40 puncte**
+- [Capitolul II. Implementarea aplicației](#capitolul-ii-implementarea-aplicației-50-puncte) - **50 puncte**
     - [Secțiunea II.1. Eleganța implementării](#secțiunea-ii1-eleganța-implementării)
     - [Secțiunea II.2. Maturitatea aplicației](#secțiunea-ii2-maturitatea-aplicației)
     - [Secțiunea II.3. Tehnologiile folosite](#secțiunea-ii3-tehnologiile-folosite)
@@ -15,7 +15,7 @@ Secțiunea Software Utilitar
     - [Secțiunea II.5. Eficiență și portabilitate](#secțiunea-ii5-eficiență-și-portabilitate)
     - [Secțiunea II.6. Testarea produsului](#secțiunea-ii6-testarea-produsului)
     - [Secțiunea II.7. Distribuirea rolurilor în echipă](#secțiunea-ii7-distribuirea-rolurilor-în-echipă)
-- [Capitolul III. Interfața (GUI / CUI)](#capitolul-iii-interfața-gui-cui-20-puncte) - **20 puncte**
+- [Capitolul III. Interfața (GUI / CUI)](#capitolul-iii-interfața-gui-cui-15-puncte) - **15 puncte**
 	- [Secțiunea III.1. Impresia generală](#secțiunea-iii1-impresia-generală)
 	- [Secțiunea III.2. Ușurință în folosire](#secțiunea-iii2-ușurință-în-folosire)
 - [Capitolul IV. Prezentarea proiectului](#capitolul-iv-prezentarea-proiectului-10-puncte) - **10 puncte**
@@ -27,7 +27,7 @@ Secțiunea Software Utilitar
 - [Observatii](#observatii)
 
 
-#Capitolul I. Arhitectura aplicației - **30 puncte**
+#Capitolul I. Arhitectura aplicației - **25 puncte**
 
 În cadrul acestui capitol vom urmări toți pașii urmați în dezvoltarea proiectului propus.
 
@@ -37,7 +37,7 @@ Această secțiune va puncta originalitatea ideii propuse, perspectiva în care 
 ##Secțiunea I.2. Proiectarea arhitecturală
 Poate unul dintre cei mai importanți pași în dezvoltarea unei aplicații este proiectarea arhitecturală. În cadrul acestui pas se alege maniera de implementare a proiectului dar și tehnologiile ce avantajeaza dezvoltarea acestuia.
 
-Aspecte ce vor fi punctate:
+Aspecte ce pot fi punctate:
 
  - alegerea tehnologiilor potrivite pentru acest tip de proiect.
  - folosirea paradigmelor de programare obiectuală şi/sau funcţională, acolo unde este cazul.
@@ -47,20 +47,20 @@ Aspecte ce vor fi punctate:
 ##Secțiunea I.3. Analiza pieței
 După alegerea unei tematici, dezvoltatorul trebuie să se documenteze referitor la proiecte asemănătoare sau la maniere alternative de implementare.
 
-În cazul în care soluția lui nu aduce nici un beneficiu, aplicația nu este fiabilă.
+În cazul în care soluția dezvoltatorului nu aduce nici un beneficiu în plus, aplicația reprezintă doar o reimplementare iar această secțiune nu va fi punctată.
 
-Aspecte ce vor fi punctate:
+Aspecte ce pot fi punctate:
 
 - în cazul aplicațiilor ce abordează o soluție deja existentă:
 	- elementele distinctive față de aplicațiile existente.
-	- modalitățile inovative de rezolvare a problemelor.
-	- inovațiile aduse sistemului.
+	- modalitățile inovative de abordare a problemelor impuse de aplicație.
+	- inovațiile aduse asupra soluției abordate.
 - în cazul aplicațiilor ce vin cu o idee nouă:
-	- fiabilitatea proiectului.
+	- fezabilitatea proiectului pe termen scurt / lung.
 	- existența unui public țintă bine definit.
 
 
-#Capitolul II. Implementarea aplicației - **40 puncte**
+#Capitolul II. Implementarea aplicației - **50 puncte**
 
 ##Secțiunea II.1. Eleganța implementării
 Încurajăm dezvoltatorii să proiecteze și să implementeze aplicația într-o manieră care să le faciliteze posibilitatea extinderii cu ușurință a funcționalităților aplicației cu o cât mai mică intervenție asupra codului scris.
@@ -80,17 +80,19 @@ Elemente ce pot fi punctate:
 ##Secțiunea II.4. Securitatea aplicației
 În cadrul acestei secțiuni se va urmări modalitățile abordate de autori pentru a evita executarea de scenarii nedorite în cadrul aplicației.
 
-Elemente ce vor fi punctate:
+Elemente ce pot fi punctate:
 
 - Validarea datelor de intrare și mecanisme de prevenție și protecție împotriva diverselor vulnerabilități (injecții, părăsirea sandbox-ului, escaladarea privilegiilor etc).
 - Tratarea erorilor și a excepțiilor.
 - Mecanisme de detecție și, eventual, blocare a atacurilor.
 
+**Atenție** - Această secțiune va fi punctată direct proporțional cu complexitatea și necesitatea de securitate a aplicației.
+
 ##Secțiunea II.5. Eficiență și portabilitate
 O aplicație mobilă trebuie să fie proiectată în așa fel încât să poată fi folosită de un public cât mai larg și cât mai divers. De aceea, avem în vedere, în cadrul acestei secțiuni, următoarele:
 
-- **Portabilitatea aplicației** - este foarte important ca o aplicației să fie disponibilă pe o gamă largă de dispozitive și platforme fără a suferi modificări drastice (în limita posibilităților tehnologiilor disponibile). Se vor puncta următoarele aspecte:
-	- aplicația să se adapteze la diverse rezoluții, în funcție de dispozitiv, platformă și parametrii acesteia, având grijă ca aplicația să nu necesite resetarea pentru a obține această funcționalitate.
+- **Portabilitatea aplicației** - este foarte important ca o aplicației să fie disponibilă pe o gamă largă de dispozitive și platforme, relativ la domeniul de aplicare a proiectului, fără a suferi modificări drastice (în limita posibilităților tehnologiilor disponibile). Se vor puncta următoarele aspecte:
+	- aplicația să se adapteze la diverse rezoluții, în funcție de dispozitiv, platformă și parametrii acesteia, având grijă ca aplicația să nu necesite resetarea pentru a obține această funcționalitate (acolo unde este cazul).
 	- să ofere un minim de funcționalitate în cazul pierderii conexiunii la internet (acolo unde este cazul).
 
 - **Folosirea eficientă și completă a platformei** - este foarte importantă exploatarea corectă și tactică a posibilităților platformei pe care va rula aplicația dezvoltată. Se vor puncta următoarele aspecte:
@@ -102,7 +104,7 @@ O aplicație mobilă trebuie să fie proiectată în așa fel încât să poată
 ##Secțiunea II.6. Testarea produsului
 În cadrul dezvoltării unui proiect, există posibilitatea apariției unor probleme sau scenarii neprevăzute în cadrul etapei de dezvoltare arhitecturală.
 
-Elemente ce vor fi punctate în această secțiune:
+Elemente ce pot fi punctate în această secțiune:
 
 - Modalitățile de testare funcțională a proiectului (unit testing, integration testing, etc).
 - Modalitățile de testare non-funcționale ale proiectului (scalabilitate, performanță, securitate, portabilitate pe platforme multiple etc).
@@ -110,12 +112,10 @@ Elemente ce vor fi punctate în această secțiune:
 - Modalități de automatizare a întregului proces de testare.
 
 ##Secțiunea II.7. Distribuirea rolurilor în echipă
-Se vor puncta următoarele aspecte:
+Pentru a putea evidenția contribuția fiecărui membru din echipă, este obligatorie folosirea unui sistem de versionare (GIT / SVN).
+**Atenție** - Orice echipă ce nu folosește un sistem de versionare nu va putea participa în concurs!
 
-- evidențierea rolurilor fiecărui membru în dezvoltarea proiectului.
-- folosirea unei aplicații de versionare (GIT / SVN) pentru evidența contribuției fiecărui membru al echipei.
-
-#Capitolul III. Interfața (GUI / CUI) - **20 puncte**
+#Capitolul III. Interfața (GUI / CUI) - **15 puncte**
 Orice aplicație trebuie să ofere o modalitate elegantă de a expune funcționalitățile oferite clientului.
 
 În cadrul unei aplicații web acestă secțiune se referă la componenta frontend.
@@ -156,7 +156,7 @@ Următoarele resurse nu trebuie să lipsească din pachetul pe care participanț
 ##Secțiunea V.1. Codul sursă
 Maniera în care este structurat codul sursă este foarte importantă în dezvoltarea unei aplicații. Cu cât aplicația este scrisă într-o manieră mai organizată și elegantă cu atât se va putea dezvolta pe viitor mai ușor.
 
-Elemente ce vor fi apreciate:
+Elemente ce pot fi apreciate:
 
 - structurarea și folosirea standardelor de programare în limbajele alese pentru implementare.
 - prezența docstring-urilor și a comentariilor ce descriu funcționalitatea fragmentelor de cod.
