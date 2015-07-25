@@ -33,7 +33,6 @@ Cuprins:
 	- [Subcapitolul IV.2. Prezentarea proiectului](#subcapitolul-iv2-prezentarea-proiectului)
 	- [Subcapitolul IV.3. Jurizarea proiectului](#subcapitolul-iv3-jurizarea-proiectului)
 
-
 - [Capitolul V. Proba Open](#capitolul-v-proba-open)
     - [Subcapitolul V.1. Selecția participanților](#subcapitolul-v1-selecția-participanților)
     - [Subcapitolul V.2. Desfășurarea probei](#subcapitolul-v2-desfășurarea-probei)
@@ -185,3 +184,4 @@ Proiectul trebuie să conțină o scurtă prezentarea a acestuia și/sau o docum
 
 - După cele 24 de ore, fiecare participant va prezenta proiectul realizat în fața juriului.
 - Proiectul va fi jurizat de către juriu folosind aceleași criterii ca la etapa anterioară.
+- Punctajul final va fi compus după următoarea formulă `punctaj(Prezentare) + punctaj(Proba Open)`
