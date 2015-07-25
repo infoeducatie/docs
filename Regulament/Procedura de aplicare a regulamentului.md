@@ -20,7 +20,7 @@ Cuprins:
         - [Subsecțiunea II.1. Proiecte open-source](#subsecțiunea-ii1-proiecte-open-source)
         - [Subsecțiunea II.2. Proiecte private](#subsecțiunea-ii2-proiecte-private)
     - [Secțiunea II.2. Specificațiile proiectului](#secțiunea-ii2-specificațiile-proiectului)
-    - [Secțiunea II.3. Documentația proiectului](#secțiunea-ii3-documentația-proiectului)
+    - [Secțiunea II.3. Materiale adiționale proiectului](#secțiunea-ii3-materiale-adiționale-proiectului)
         - [Subsecțiunea II.3. Documentația proiectului](#subsecțiunea-ii3-documentația-proiectului)
         - [Subsecțiunea II.4. Prezentarea proiectului](#subsecțiunea-ii4-prezentarea-proiectului)
 
@@ -115,7 +115,7 @@ Această prevedere nu se aplică pentru secțiunea Multimedia.
 1. Fiecare echipă trebuie să specifice la înscrierea proiectului în cadrul competiției o listă cu specificații minime pe care organizatorii trebuie să le pună la dispoziție pentru buna funcționare a aplicației.
 2. În cazul în care organizatorii nu pot pune la dispoziție configurația cerută de participanți aceștia sunt rugați să își pregătească toate resursele necesare pentru susținerea unei prezentări demonstrative în tabără.
 
-##Secțiunea II.3. Documentația proiectului
+##Secțiunea II.3. Materiale adiționale proiectului
 
 Proiectul trebuie să conțină o scurtă prezentarea a acestuia și/sau o documentație.
 
