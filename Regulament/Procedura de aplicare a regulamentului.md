@@ -172,7 +172,7 @@ Proiectul trebuie să conțină o scurtă prezentarea a acestuia și/sau o docum
 
 ##Subcapitolul V.1. Selecția participanților
 - După prezentarea proiectului juriul va pregăti clasamentul pentru toate proiectele jurizate.
-- Punctajele pentru primele cinci echipe clasate, la fiecare secțiune, nu vor fi afișate.
+    - Primele cinci echipe clasate la fiecare secțiune vor fi afișate
 - Primele cinci echipe de la fiecare secțiune se vor califica în proba "Open".
     - În cazul în care echipa de pe locul cinci este la egalitate de punctaj cu alte echipe și acele echipe se vor califica în probaba "Open"
 - În cazul în care o echipă se califică cu mai multe proiecte în proba Open la aceeași secțiune:
