@@ -145,7 +145,7 @@ Proiectul trebuie să conțină o scurtă prezentarea a acestuia și/sau o docum
 
 1. Juriul fiecărei secțiuni va pune la dispoziția fiecărei echipe toate resursele necesare pentru instalarea / copierea proiectului pe infrastructura pusă la dispoziție.
 2. În cazul în care o echipă întâmpină probleme la instalarea proiectului aceasta trebuie să solicite ajutorul comisiei tehnice.
-3. În cazul în care o echipă nu poate instala proiectul pe infrastuctura pusă la dispoziție de membrii comisiei tehnice din motive întemeiate aceasta poate prezenta proiectul de pe hardware-ul propriu.
+3. În cazul în care o echipă nu poate instala proiectul pe infrastuctura pusă la dispoziție de membrii comisiei tehnice din motive întemeiate aceasta poate prezenta proiectul de pe hardware-ul propriu doar cu acordul comisiei.
 
 #Capitolul IV. Prezentarea proiectului
 
