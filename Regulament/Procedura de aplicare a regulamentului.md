@@ -120,7 +120,7 @@ Această prevedere nu se aplică pentru secțiunea Multimedia.
 
 1. Fiecare echipă ce nu dorește să publice codul sursă pentru proiectul ei, trebuie să specifice acest lucru la înscriere.
 
-2. În cazul în care motivul invocat nu este unul valid, organizatorii au posibilitatea de a cere informații suplimentare în timpul prezentării.
+2. În cazul în care motivul invocat nu este unul valid, membrii juriului au posibilitatea de a cere informații suplimentare în timpul prezentării.
 
 3. Fiecare echipă ce este înscrisă în concurs cu un proiect cu surse private va primi din partea juriului un repository privat gratuit pe Github.
 
@@ -137,9 +137,8 @@ Această prevedere nu se aplică pentru secțiunea Multimedia.
 Proiectul trebuie să conțină o scurtă prezentarea a acestuia și/sau o documentație.
 
 1. Prezentarea sau documentația trebuie să conțină o listă cu toate resursele externe folosite (tutoriale, cod autogenerat de diverse utilitare, exemple de cod etc), în caz contrar acest lucru poate duce descalificarea proiectului.
-
     - Prezentarea proiectului, dacă există, trebuie să fie în aceeași locație cu codul sursă (fișier README)
-    - Documentația proiectului poate să însoțească proiectul sau poate să fie în altă locație atât timp cât este specificată în fișierul README
+    - Documentația proiectului poate să însoțească proiectul sau poate să fie în altă locație atât timp cât este specificată în fișierul README și este accesibilă juriului
 
 ###Subsecțiunea II.3.1 Documentația proiectului
 
@@ -162,7 +161,7 @@ Proiectul trebuie să conțină o scurtă prezentarea a acestuia și/sau o docum
 
 1. Juriul fiecărei secțiuni va anunța în prima zi de tabără, în timpul ședinței tehnice, programul destinat instalării proiectelor.
 
-2. Fiecare echipă are datoria de a se prezenta cu 15 minute înainte de ora la care a fost programată lucrarea lor.
+2. Fiecare echipă are datoria de a se prezenta cu 15 minute înainte de ora la care a fost programată lucrarea ei.
 
 ##Subcapitolul III.2. Instalarea proiectului
 
@@ -199,7 +198,6 @@ Proiectul trebuie să conțină o scurtă prezentarea a acestuia și/sau o docum
 2. În cazul în care există neclarități privitoare la resursele oferite juriului, echipa în cauză trebuie să ofere toate clarificările necesare membrilor comisiei.
 
 3. În cazul în care o parte dintre resursele relevante lipsesc, membrii comisiei nu vor puncta proiectul în cauză.
-
     a. Fiecare juriu are datoria de a specifica în criteriile de jurizare care sunt resursele necesare jurizării specifice secțiunii.
     b. În cazul în care juriul nu specifică alte resurse, se vor considera relevante următoarele resurse:
     - codul sursă, dacă este cazul
@@ -209,16 +207,13 @@ Proiectul trebuie să conțină o scurtă prezentarea a acestuia și/sau o docum
 
 ##Subcapitolul V.1. Selecția participanților
 1. După prezentarea proiectului juriul va pregăti clasamentul pentru toate proiectele jurizate.
-
-    a. Primele cinci echipe clasate la fiecare secțiune vor fi afișate sortate în ordine alfabetic
+    a. Primele cinci echipe clasate la fiecare secțiune vor fi afișate sortate în ordine alfabetică
 
 2. Primele cinci echipe de la fiecare secțiune se vor califica în proba "Open".
-
     a. În cazul în care echipa de pe locul cinci este la egalitate de punctaj cu alte echipe și acele echipe se vor califica în proba "Open"
 
-3. În cazul în care o echipă se califică cu mai multe proiecte în proba Open la aceeași secțiune:
-
-    a. punctajul obținut în această probă va fi adăugat la proiectul cu punctajul cel mai mare
+3. În cazul în care o echipă se califică cu mai multe proiecte în proba Open:
+    a. echipa are posibilitatea de a alege cu care dintre proiectele calificate dorește să participe
     b. juriul poate decide dacă echipa situată pe locul șase va participa la proba Open
 
 ##Subcapitolul V.2. Desfășurarea probei
