@@ -3,14 +3,14 @@ Criterii de jurizare - InfoEducație 2015
 Secțiunea Web
 --------------------
 
-- [Capitolul I. Inginerie web și programare](#capitolul-i-inginerie-web-și-programare-10-puncte) 20 puncte
-- [Capitolul II. Funcţionalităţi şi utilitate](#capitolul-ii-funcţionalităţi-și-utilitate-20-puncte) 15 puncte
-- [Capitolul III. Originalitatea inovației](#capitolul-iii-originalitatea-inovației-20-puncte) 15 puncte
-- [Capitolul IV. Design / Utilizabilitate si Accesibilitate](#capitolul-iv-design-utilizabilitate-si-accesibilitate-20-puncte) 15 puncte
-- [Capitolul V. Portabilitate](#capitolul-v-portabilitate-15-puncte) 10 puncte
-- [Capitolul VI. Securitate](#capitolul-vi-securitate-15-puncte) 10 puncte
-- [Capitolul VII. Prezentare](#capitolul-vii-prezentare-15-puncte) 10 puncte
-- [Capitolul VIII. Conţinut](#capitolul-viii-conţinut-15-puncte) 5 puncte
+- [Capitolul I. Inginerie web și programare](#capitolul-i-inginerie-web-și-programare-20-puncte) 20 puncte
+- [Capitolul II. Funcţionalităţi şi utilitate](#capitolul-ii-funcţionalităţi-și-utilitate-15-puncte) 15 puncte
+- [Capitolul III. Originalitatea inovației](#capitolul-iii-originalitatea-inovației-15-puncte) 15 puncte
+- [Capitolul IV. Design / Utilizabilitate si Accesibilitate](#capitolul-iv-design-utilizabilitate-si-accesibilitate-15-puncte) 15 puncte
+- [Capitolul V. Portabilitate](#capitolul-v-portabilitate-10-puncte) 10 puncte
+- [Capitolul VI. Securitate](#capitolul-vi-securitate-10-puncte) 10 puncte
+- [Capitolul VII. Prezentare](#capitolul-vii-prezentare-10-puncte) 10 puncte
+- [Capitolul VIII. Conţinut](#capitolul-viii-conţinut-5-puncte) 5 puncte
 - [Observaţii](#observaţii)
 
 #Capitolul I. Inginerie web și programare **20 puncte**
