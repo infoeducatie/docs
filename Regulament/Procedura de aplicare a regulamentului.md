@@ -120,6 +120,8 @@ Această prevedere nu se aplică pentru secțiunea Multimedia.
 Proiectul trebuie să conțină o scurtă prezentarea a acestuia și/sau o documentație.
 
 1. Prezentarea sau documentația trebuie să conțină o listă cu toate resursele externe folosite (tutoriale, cod autogenerat de diverse utilitare, exemple de cod etc), în caz contrar acest lucru poate duce descalificarea proiectului.
+    - Prezentarea proiectului, dacă există, trebuie să fie în aceeași locație cu codul sursă (poate fi un fișier README)
+    - Documentația proiectului poate să însoțească proiectul sau poate să fie în altă locație atât timă cât este specificat în fișierul README
 
 ###Subsecțiunea II.3. Documentația proiectului
 
