@@ -151,7 +151,7 @@ Proiectul trebuie să conțină o scurtă prezentarea a acestuia și/sau o docum
 
 ##Subcapitolul IV.1. Programarea proiectelor
 1. Juriul fiecărei secțiuni va anunța după instalarea proiectelor programul destinat prezentării proiectelor.
-2. Programul prezentărilor va fi afișat pe pagina de intranet din tabără.
+2. Programul prezentărilor va fi afișat pe pagina de intranet din tabără sau tipărit la avizier.
 3. Fiecare echipă are datoria de a se prezenta cu 15 minute înainte de programarea afișată.
 
 ##Subcapitolul IV.2. Prezentarea proiectului
