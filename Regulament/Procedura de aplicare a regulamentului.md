@@ -167,6 +167,10 @@ Proiectul trebuie să conțină o scurtă prezentarea a acestuia și/sau o docum
 1. Membrii juriului trebuie să analizeze toate resursele primite de la participanți și să le puncteze în funcție de specificațiile din criteriile de jurizare.
 2. În cazul în care există neclarități privitoare la resursele oferite juriului, echipa în cauză trebuie să ofere toate clarificările necesare membrilor comisiei.
 3. În cazul în care o parte dintre resursele relevante lipsesc, membrii comisiei nu vor puncta proiectul în cauză.
+    - Fiecare juriu are datoria de a specifica în criteriile de jurizare care sunt resursele necesare jurizării specifice secțiunii.
+    - În cazul în care juriul nu specifică alte resurse, se vor considera relevante următoarele resurse:
+        - codul sursă, dacă este cazul
+        - o scurtă prezentare ce să conțină resursele externe folosite
 
 #Capitolul V. Proba Open
 
