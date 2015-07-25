@@ -18,7 +18,7 @@ Secțiunea Web
 - Structurarea codului sursă (modularitate, Service Oriented Architecture – SOA)
 - Utilizarea unei metodologii de proiectare; recurgerea la design patterns, folosirea framework­urilor sau librăriilor adecvate
 - Scalabilitatea (posibilitatea extinderii facile, usurinta adoptarii unei infrastructuri elastice etc.)
-- Folosirea unui sistem de versionare (Git, Subversion, etc.)
+- Folosirea unui sistem de versionare (Git, Subversion, etc.) este obligatorie. Putem puncta modul în care este folosit.
 - Testare (TDD / BDD, Coverage, Testare Automată, Testare Client­side)
 - Tehnici de programare, algoritmi
 - Arhitectura datelor (structuri de date, scheme de baze de date, tipuri de bază de date folosite sau XML, JSON, YAML etc.)
@@ -29,7 +29,7 @@ Secțiunea Web
 - Utilitatea lucrării în contextul scopului
 - Numărul şi complexitatea de funcţionalităţi pe care site­ul le pune la dispoziţie
 - Calitatea, originalitatea şi concordanţa cu tema proiectului
-- Recurgerea la instrumente de achizitie si/sau management al continutului, stocarea și utilizarea corectă a resurselor dacă se dorește folosirea lor în offline
+- Recurgerea la instrumente de achiziție i/sau management al continutului, stocarea și utilizarea corectă a resurselor dacă se dorește folosirea lor în offline
 
 #Capitolul III. Originalitatea inovației **15 puncte**
 
@@ -59,10 +59,10 @@ Secțiunea Web
 
 #Capitolul VII. Prezentare **10 puncte**
 
-- Modul de prezentare al proiectului in fata publicului
-- Documentatia si descrierea clara a proiectului
+- Modul de prezentare al proiectului în fața publicului
+- Documentațias i descrierea clară a proiectului
 
-#Capitolul VIII. Conţinut **5p**
+#Capitolul VIII. Conţinut **5 puncte**
 
 - Calitatea (acurateţea, originalitatea), cantitatea, utilitatea şi corectitudinea conţinutului.
 - În cazul proiectelor care nu se bazează pe conținut (e.g. aplicații web), se punctează claritatea mesajelor din meniuri, mesajelor de eroare, conținutul de demonstrație și prezentare a aplicației, elocvența mesajelor, etc.
@@ -71,4 +71,4 @@ Secțiunea Web
 
 Nu vor fi punctate acele părţi ale proiectului care nu sunt concepute de autor (de exemplu, design bazat pe template­uri, scripturi de pe internet etc.). În cazul în care autorul îşi asumă realizarea unor părţi care apoi se dovedesc a nu fi de concepţie proprie, lucrarea va fi descalificată.
 
-Daca designul este preluat portabilitatea va fi 0 si lucrarea poate fi depunctata si la utilizabilitate si portabilitate daca tema folosita ofera in mod implicit functionalitatile
+Dacă designul este preluat portabilitatea va fi 0 și lucrarea poate fi depunctată și la utilizabilitate și portabilitate daca tema folosită oferă în mod implicit funcționalitățile.
