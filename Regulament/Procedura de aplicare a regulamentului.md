@@ -176,12 +176,12 @@ Proiectul trebuie să conțină o scurtă prezentarea a acestuia și/sau o docum
 - Primele cinci echipe de la fiecare secțiune se vor califica în proba "Open".
 
 ##Subcapitolul V.2. Desfășurarea probei
-- Juriul de la fiecare secțiune va propune o temă pe care participanții trebuie să o implementeze în 24 de ore.
-- Fiecare echipă trebuie să dezvolte în cele 24 de ore disponibile un proiect ce să respecte specificațiile juriului.
+- Juriul de la fiecare secțiune va propune o temă pe care participanții trebuie să o implementeze într-un interval de timp specificat de juriu.
+- Fiecare echipă trebuie să dezvolte în timpul pus la dispoziție de juriu un proiect ce să respecte specificațiile juriului.
 - În cazul în care specificațiile nu sunt suficient de clare sau explicite membrii juriului vor răspunde la orice întrebare din partea participanților.
 
 ##Subcapitolul V.3 Jurizarea proiectelor
 
-- După cele 24 de ore, fiecare participant va prezenta proiectul realizat în fața juriului.
+- După intervalul destinat dezvoltării proiectului, fiecare participant va prezenta proiectul realizat în fața juriului.
 - Proiectul va fi jurizat de către juriu folosind aceleași criterii ca la etapa anterioară.
 - Punctajul final va fi compus după următoarea formulă `punctaj(Prezentare) + punctaj(Proba Open)`
