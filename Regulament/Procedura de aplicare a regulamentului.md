@@ -165,11 +165,15 @@ Proiectul trebuie să conțină o scurtă prezentarea a acestuia și/sau o docum
 
 ##Subcapitolul III.2. Instalarea proiectului
 
-1. Juriul fiecărei secțiuni va pune la dispoziția fiecărei echipe toate resursele necesare pentru instalarea / copierea proiectului pe infrastructura pusă la dispoziție.
+1. Juriul fiecărei secțiuni va pune la dispoziția fiecărei echipe toate resursele necesare pentru copierea mașinii virtuale în infrastructura pusă la dispoziție.
 
-2. În cazul în care o echipă întâmpină probleme la instalarea proiectului aceasta trebuie să solicite ajutorul comisiei tehnice.
+2. Fiecare echipă are datoria de a pregăti o mașină virtuală care să conțină mediul necesar unei bune funcționări a proiectului.
+    - mașina virtuală nu trebuie să ocupe mai mult de 30GB
+    - în mediul de dezvoltare disponibil pe mașina virtuală nu trebuie să existe software nelicențiat
 
-3. În cazul în care o echipă nu poate instala proiectul pe infrastuctura pusă la dispoziție de membrii comisiei tehnice din motive întemeiate aceasta poate prezenta proiectul de pe hardware-ul propriu doar cu acordul comisiei.
+3. În cazul în care o echipă întâmpină probleme la instalarea proiectului aceasta trebuie să solicite ajutorul comisiei tehnice.
+
+4. În cazul în care o echipă nu poate instala proiectul pe infrastuctura pusă la dispoziție de membrii comisiei tehnice din motive întemeiate aceasta poate prezenta proiectul de pe hardware-ul propriu doar cu acordul comisiei.
 
 #Capitolul IV. Prezentarea proiectului
 
