@@ -25,13 +25,13 @@ Cuprins:
         - [Subsecțiunea II.4. Prezentarea proiectului](#subsecțiunea-ii4-prezentarea-proiectului)
 
 - [Capitolul III. Instalarea proiectului](#capitolul-iii-instalarea-proiectului)
-	- [Subcapitolul III.1. Programarea proiectelor](#subcapitolul-iii1-programarea-proiectelor)
-	- [Subcapitolul III.2. Instalarea proiectului](#subcapitolul-iii2-instalarea-proiectului)
+    - [Subcapitolul III.1. Programarea proiectelor](#subcapitolul-iii1-programarea-proiectelor)
+    - [Subcapitolul III.2. Instalarea proiectului](#subcapitolul-iii2-instalarea-proiectului)
 
 - [Capitolul IV. Prezentarea proiectului](#capitolul-iv-prezentarea-proiectului)
-	- [Subcapitolul IV.1. Programarea proiectelor](#subcapitolul-iv1-programarea-proiectelor)
-	- [Subcapitolul IV.2. Prezentarea proiectului](#subcapitolul-iv2-prezentarea-proiectului)
-	- [Subcapitolul IV.3. Jurizarea proiectului](#subcapitolul-iv3-jurizarea-proiectului)
+    - [Subcapitolul IV.1. Programarea proiectelor](#subcapitolul-iv1-programarea-proiectelor)
+    - [Subcapitolul IV.2. Prezentarea proiectului](#subcapitolul-iv2-prezentarea-proiectului)
+    - [Subcapitolul IV.3. Jurizarea proiectului](#subcapitolul-iv3-jurizarea-proiectului)
 
 - [Capitolul V. Proba Open](#capitolul-v-proba-open)
     - [Subcapitolul V.1. Selecția participanților](#subcapitolul-v1-selecția-participanților)
@@ -156,10 +156,10 @@ Proiectul trebuie să conțină o scurtă prezentarea a acestuia și/sau o docum
 
 ##Subcapitolul IV.2. Prezentarea proiectului
 1. Înainte de începerea jurizărilor membrii juriului pentru fiecare comisie trebuie să anunțe eventualele modificări pentru structura prezentării. Structura recomandată pentru prezentări este următoarea: 
-	- 3 minute verificarea resurselor necesare pentru prezentare.
-	- 10 minute prezentarea proiectului.
-	- 5 minute întrebări din partea juriului.
-	- 2 minute întrebări din partea publicului.
+    - 3 minute verificarea resurselor necesare pentru prezentare.
+    - 10 minute prezentarea proiectului.
+    - 5 minute întrebări din partea juriului.
+    - 2 minute întrebări din partea publicului.
 2. Fiecare echipă are datoria de a verifica resursele necesare înainte de începerea prezentării.
 3. În cazul în care echipa nu se încadrează în timpul pus la dispoziție membrii juriului pot cere întreruperea prezentării.
 
@@ -167,30 +167,30 @@ Proiectul trebuie să conțină o scurtă prezentarea a acestuia și/sau o docum
 1. Membrii juriului trebuie să analizeze toate resursele primite de la participanți și să le puncteze în funcție de specificațiile din criteriile de jurizare.
 2. În cazul în care există neclarități privitoare la resursele oferite juriului, echipa în cauză trebuie să ofere toate clarificările necesare membrilor comisiei.
 3. În cazul în care o parte dintre resursele relevante lipsesc, membrii comisiei nu vor puncta proiectul în cauză.
-    - Fiecare juriu are datoria de a specifica în criteriile de jurizare care sunt resursele necesare jurizării specifice secțiunii.
-    - În cazul în care juriul nu specifică alte resurse, se vor considera relevante următoarele resurse:
-        - codul sursă, dacă este cazul
-        - o scurtă prezentare ce să conțină resursele externe folosite
+    a. Fiecare juriu are datoria de a specifica în criteriile de jurizare care sunt resursele necesare jurizării specifice secțiunii.
+    b. În cazul în care juriul nu specifică alte resurse, se vor considera relevante următoarele resurse:
+    - codul sursă, dacă este cazul
+    - o scurtă prezentare ce să conțină resursele externe folosite
 
 #Capitolul V. Proba Open
 
 ##Subcapitolul V.1. Selecția participanților
-- După prezentarea proiectului juriul va pregăti clasamentul pentru toate proiectele jurizate.
-    - Primele cinci echipe clasate la fiecare secțiune vor fi afișate
-- Primele cinci echipe de la fiecare secțiune se vor califica în proba "Open".
-    - În cazul în care echipa de pe locul cinci este la egalitate de punctaj cu alte echipe și acele echipe se vor califica în proba "Open"
-- În cazul în care o echipă se califică cu mai multe proiecte în proba Open la aceeași secțiune:
-    - punctajul obținut în această probă va fi adăugat la proiectul cu punctajul cel mai mare
-    - juriul poate decide dacă echipa situată pe locul șase va participa la proba Open
+1. După prezentarea proiectului juriul va pregăti clasamentul pentru toate proiectele jurizate.
+    a. Primele cinci echipe clasate la fiecare secțiune vor fi afișate
+2. Primele cinci echipe de la fiecare secțiune se vor califica în proba "Open".
+    a. În cazul în care echipa de pe locul cinci este la egalitate de punctaj cu alte echipe și acele echipe se vor califica în proba "Open"
+3. În cazul în care o echipă se califică cu mai multe proiecte în proba Open la aceeași secțiune:
+    a. punctajul obținut în această probă va fi adăugat la proiectul cu punctajul cel mai mare
+    b. juriul poate decide dacă echipa situată pe locul șase va participa la proba Open
 
 ##Subcapitolul V.2. Desfășurarea probei
-- Juriul de la fiecare secțiune va propune o temă pe care participanții trebuie să o implementeze într-un interval de timp specificat de juriu.
-- Fiecare echipă trebuie să dezvolte în timpul pus la dispoziție de juriu un proiect ce să respecte specificațiile.
-- În cazul în care specificațiile nu sunt suficient de clare sau explicite membrii juriului vor răspunde la orice întrebare din partea participanților.
+1. Juriul de la fiecare secțiune va propune o temă pe care participanții trebuie să o implementeze într-un interval de timp specificat de juriu.
+2. Fiecare echipă trebuie să dezvolte în timpul pus la dispoziție de juriu un proiect ce să respecte specificațiile.
+3. În cazul în care specificațiile nu sunt suficient de clare sau explicite membrii juriului vor răspunde la orice întrebare din partea participanților.
 
 ##Subcapitolul V.3 Jurizarea proiectelor
 
-- După intervalul destinat dezvoltării proiectului, fiecare echipă va prezenta proiectul realizat, în fața juriului.
-- Proiectul va fi jurizat de către juriu folosind aceleași criterii ca la etapa anterioară.
-- Punctajul final va fi compus după următoarea formulă:
+1. După intervalul destinat dezvoltării proiectului, fiecare echipă va prezenta proiectul realizat, în fața juriului.
+2. Proiectul va fi jurizat de către juriu folosind aceleași criterii ca la etapa anterioară.
+3. Punctajul final va fi compus după următoarea formulă:
     - punctajul obținut la prima etapă de prezentări + punctajul obținut la proba Open
