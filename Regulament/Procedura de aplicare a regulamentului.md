@@ -1,7 +1,7 @@
 Procedura de aplicare a regulamentului
 ----------------------------------------------
 
-Acest document conține un set de reguli ce extind și clarifică setup de reguli din regulamentul Concursului Național de proiecte IT & C **InfoEducație**.
+Acest document conține un set de reguli ce extind și clarifică setul de reguli din regulamentul Concursului Național de proiecte IT & C **InfoEducație**.
 
 Cuprins:
 
@@ -51,7 +51,7 @@ Cuprins:
 
 ## Secțiunea I.2. Lotul județului
 
-1. Fiecare județ poate trimite la etapa națională a concursului un grup de maxim cinci elevi, excepție Municipiul București care poate trimite un grup de 12 elevi.
+1. Fiecare județ poate trimite la etapa națională a concursului un grup de maxim cinci elevi, cu excepția Municipiul București care poate trimite un grup de 12 elevi.
 
 
 ## Secțiunea I.3. Înscrierea proiectului pe site-ul infoeducatie.ro
@@ -63,13 +63,13 @@ Cuprins:
 3. Echipa de dezvoltatori are obligația de a răspunde în mai puțin de 24 de ore la orice mesaj ce semnalează o problemă.
 4. În cazul în care echipa are nelămuriri legate de informațiile pe care trebuie să le ofere poate contacta membrii comisiei prin cele două canale oficiale puse la dispoziție:
     - Forumul public al competiției: [community.infoeducatie.ro](http://community.infoeducatie.ro)
-    - Adresele de mail pentru juriul de la fiecare secțiune:
+    - Adresele de email pentru juriul de la fiecare secțiune:
         - web@infoeducatie.ro
         - utilitar@infoeducatie.ro
         - educational@infoeducatie.ro
         - roboti@infoeducatie.ro
         - multimedia@infoeducatie.ro
-- În cazul în care un participant adresează o întrebare al cărui răspuns ar putea ajuta și alți paticipanți, membrii juriului pot refuza să răspundă la întrebare prin intermediul mailului și să îi solicite publicarea întrebării pe forum. 
+- În cazul în care un participant adresează o întrebare al cărui răspuns ar putea ajuta și alți paticipanți, membrii juriului pot refuza să răspundă la întrebare prin intermediul emailului și să îi solicite publicarea întrebării pe forum. 
 
 ###Subsecțiunea I.2. Termenul limită
 
