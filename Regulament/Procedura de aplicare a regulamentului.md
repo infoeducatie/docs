@@ -9,20 +9,20 @@ Cuprins:
     - [Secțiunea I.1. Componența echipei](#secțiunea-i1-componența-echipei)
     - [Secțiunea I.2. Lotul județului](#secțiunea-i2-lotul-județului)
     - [Secțiunea I.3. Înscrierea proiectului pe site-ul infoeducatie.ro](#secțiunea-i3-înscrierea-proiectului-pe-site-ul-infoeducatiero)
-        - [Subsecțiunea I.1. Forumularul de înscriere](#subsecțiunea-i1-forumularul-de-înscriere)
-        - [Subsecțiunea I.2. Termenul limită](#subsecțiunea-i2-termenul-limită)
+        - [Subsecțiunea I.3.1. Forumularul de înscriere](#subsecțiunea-i31-forumularul-de-înscriere)
+        - [Subsecțiunea I.3.2. Termenul limită](#subsecțiunea-32-termenul-limită)
     - [Secțiunea I.4. Acceptarea lucrărilor](#secțiunea-i4-acceptarea-lucrărilor)
-        - [Subsecțiunea I.3. Echipa de organizatori](#subsecțiunea-i3-echipa-de-organizatori)
-        - [Subsecțiunea I.4. Participanții](#subsecțiunea-i4-participanții)
+        - [Subsecțiunea I.4.1. Echipa de organizatori](#subsecțiunea-i41-echipa-de-organizatori)
+        - [Subsecțiunea I.4.2. Participanții](#subsecțiunea-i42-participanții)
 
 - [Capitolul II. Resursele necesare jurizării](#capitolul-ii-resursele-necesare-jurizării)
     - [Secțiunea II.1. Codul sursă](#secțiunea-ii1-codul-sursă)
-        - [Subsecțiunea II.1. Proiecte open-source](#subsecțiunea-ii1-proiecte-open-source)
-        - [Subsecțiunea II.2. Proiecte private](#subsecțiunea-ii2-proiecte-private)
+        - [Subsecțiunea II.1.1. Proiecte open-source](#subsecțiunea-ii11-proiecte-open-source)
+        - [Subsecțiunea II.1.2. Proiecte private](#subsecțiunea-ii12-proiecte-private)
     - [Secțiunea II.2. Specificațiile proiectului](#secțiunea-ii2-specificațiile-proiectului)
     - [Secțiunea II.3. Materiale adiționale proiectului](#secțiunea-ii3-materiale-adiționale-proiectului)
-        - [Subsecțiunea II.3. Documentația proiectului](#subsecțiunea-ii3-documentația-proiectului)
-        - [Subsecțiunea II.4. Prezentarea proiectului](#subsecțiunea-ii4-prezentarea-proiectului)
+        - [Subsecțiunea II.3.1 Documentația proiectului](#subsecțiunea-ii31-documentația-proiectului)
+        - [Subsecțiunea II.3.2 Prezentarea proiectului](#subsecțiunea-ii32-prezentarea-proiectului)
 
 - [Capitolul III. Instalarea proiectului](#capitolul-iii-instalarea-proiectului)
     - [Subcapitolul III.1. Programarea proiectelor](#subcapitolul-iii1-programarea-proiectelor)
@@ -56,7 +56,7 @@ Cuprins:
 
 ## Secțiunea I.3. Înscrierea proiectului pe site-ul infoeducatie.ro
 
-###Subsecțiunea I.1. Formularul de înscriere
+###Subsecțiunea I.3.1. Forumularul de înscriere
 
 1. Pentru a înscrie un proiect în cadrul competiției fiecare echipă trebuie să completeze formularul destinat înscrierii proiectului de pe site-ul [www.infoeducatie.ro](http://infoeducatie.ro).
 2. În cazul în care echipa întâmpină probleme în completarea formularului are datoria de a anunța în cel mai scurt timp echipa de dezvoltatori, folosind adresa de email ping@infoeducatie.ro.
@@ -71,7 +71,7 @@ Cuprins:
         - multimedia@infoeducatie.ro
 - În cazul în care un participant adresează o întrebare al cărui răspuns ar putea ajuta și alți paticipanți, membrii juriului pot refuza să răspundă la întrebare prin intermediul emailului și să îi solicite publicarea întrebării pe forum. 
 
-###Subsecțiunea I.2. Termenul limită
+###Subsecțiunea I.3.2. Termenul limită
 
 1. Termenul limită pentru înscrierea proiectului este 27 Iulie, orice înscriere după această dată nu va fi luată în considerare.
 2. Versiunea proiectului din data de 1 August va fi versiunea proiectului ce va fi prezentată în cadrul concursului.
@@ -79,12 +79,12 @@ Cuprins:
 
 ## Secțiunea I.4. Acceptarea lucrărilor
 
-###Subsecțiunea I.3. Echipa de organizatori
+###Subsecțiunea I.4.1. Echipa de organizatori
 
 1. Echipa de organizatori are datoria de a verifica fiecare înscriere în vederea stabilirii validității acesteia.
 2. Pentru orice proiect respins, echipa de organizatori are obligația de a anunța echipa în mai puțin de 48 de ore de la respingerea acesteia.
 
-###Subsecțiunea I.4. Participanții
+###Subsecțiunea I.4.2. Participanții
 
 1. Fiecare participant trebuie să ofere toate informațiile necesare validării proiectului.
 2. Fiecare echipă trebuie să răspundă la orice neclarități legate de lucrarea înscrisă în mai puțin de 48 de ore.
@@ -98,12 +98,12 @@ Această prevedere nu se aplică pentru secțiunea Multimedia.
 
 1. Codul sursă pentru fiecare proiect trebuie să fie accesibil pe GitHub.
 
-###Subsecțiunea II.1. Proiecte open-source
+###Subsecțiunea II.1.1. Proiecte open-source
 
 2. Fiecare echipă va trebui să specifice licența utilizată. Mai multe informații pentru alegerea licenței puteți găsi [aici](choosealicense.com).
 3. Termenii din licența aleasă trebuie să fie respectați.
 
-###Subsecțiunea II.2. Proiecte private
+###Subsecțiunea II.1.2. Proiecte private
 
 1. Fiecare echipă ce nu dorește să publice codul sursă pentru proiectul său, trebuie să specifice acest lucru la înscriere.
 2. În cazul în care motivul invocat nu este unul valid, organizatorii au posibilitatea de a respinge proiectul.
@@ -123,12 +123,12 @@ Proiectul trebuie să conțină o scurtă prezentarea a acestuia și/sau o docum
     - Prezentarea proiectului, dacă există, trebuie să fie în aceeași locație cu codul sursă (poate fi un fișier README)
     - Documentația proiectului poate să însoțească proiectul sau poate să fie în altă locație atât timă cât este specificat în fișierul README
 
-###Subsecțiunea II.3. Documentația proiectului
+###Subsecțiunea II.3.1 Documentația proiectului
 
 1. Documentația proiectului nu este obligatorie pentru înscrierea în cadrul concursului dar poate conta la jurizarea proiectului.
 2. Fiecare juriu trebuie să specifice în cadrul criteriilor de jurizare dacă documentația va fi punctată și care este modul în care trebuie structurată.
 
-###Subsecțiunea II.4. Prezentarea proiectului
+###Subsecțiunea II.3.2 Prezentarea proiectului
 
 1. Prezentarea proiectului trebuie să aibă maxim 5 pagini.
 2. Trebuie să prezinte succint aplicația împreună cu tehnologiile folosite.
