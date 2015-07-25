@@ -74,8 +74,8 @@ Cuprins:
 ###Subsecțiunea I.2. Termenul limită
 
 1. Termenul limită pentru înscrierea proiectului este 27 Iulie, orice înscriere după această dată nu va fi luată în considerare.
-2. Versiunea proiectului din data de 27 Iulie va fi versiunea proiectului ce va fi prezentată în cadrul concursului.
-3. Fiecare echipă are datoria de a pune la dispoziția juriului toate resursele necesare jurizării până la această dată.
+2. Versiunea proiectului din data de 1 August va fi versiunea proiectului ce va fi prezentată în cadrul concursului.
+3. Fiecare echipă are datoria de a pune la dispoziția juriului toate resursele necesare jurizării până pe data de 1 August.
 
 ## Secțiunea I.4. Acceptarea lucrărilor
 
