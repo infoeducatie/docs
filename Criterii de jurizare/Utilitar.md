@@ -186,7 +186,7 @@ Aspecte ce vor fi punctate:
     - fiabilitatea proiectului
     - existența unui public țintă bine definit
 
-#Capitolul II. Implementarea aplicației 40 puncte
+#Capitolul II. Implementarea aplicației **40 puncte**
 
 ##Secțiunea II.1. Eleganța implementării
 
@@ -236,7 +236,7 @@ Elemente ce vor fi punctate:
 - evidențierea rolurilor fiecărui membru în dezvoltarea proiectului
 - folosirea unei aplicații de versionare (GIT / SVN) pentru evidența contribuției fiecărui membru al echipei
 
-#Capitolul III Interfața (GUI / CUI) 20 puncte
+#Capitolul III Interfața (GUI / CUI) **20 puncte**
 
 >>>>>>> Fixed web and added Utilitar
 Orice aplicație trebuie să ofere o modalitate elegantă de a expune funcționalitățile oferite clientului.
@@ -308,7 +308,7 @@ Interfața trebuie să ofere publicului țintă accesul la operația / resursa d
 
 Interfața trebuie să fie plăcută, intuitivă și ușor de parcurs (UI, UX).
 
-#Capitolul IV. Prezentarea proiectului 10 puncte
+#Capitolul IV. Prezentarea proiectului **10 puncte**
 
 În cadrul acestei secțiuni se vor puncta elemente ce țin de prezentarea și distribuirea proiectului.
 
