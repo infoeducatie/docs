@@ -27,7 +27,7 @@ Secțiunea Software Educațional
     - [Secțiunea V.1. Impresia generală a proiectului](#secțiunea-v1-impresia-generală-a-proiectului)
     - [Secțiunea V.2. Ușurința în folosire](#secțiunea-v2-documentația-proiectului)
 
-#Capitolul I. Arhitectura aplicației 20 puncte
+#Capitolul I. Arhitectura aplicației **20 puncte**
 
 ##Secțiunea I.1. Tehnologii folosite
 
@@ -44,7 +44,7 @@ Secțiunea Software Educațional
 
 - Posibilitatea de a rula programul pe mai multe dispozitive.
 
-#Capitolul II. Implementarea aplicației 30 puncte
+#Capitolul II. Implementarea aplicației **30 puncte**
 
 ##Secțiunea II.1. Eleganța implementării
 
@@ -76,7 +76,7 @@ Secțiunea Software Educațional
 
 Nu trebuie să existe o persoană în echipă care să fi contribuit semnificativ mai mult față de coechipierii săi.
 
-#Capitolul III. Interfață (GUI / CUI) 20 puncte
+#Capitolul III. Interfață (GUI / CUI) **20 puncte**
 
 ##Secțiunea III.1. Impresia generală
 
@@ -112,7 +112,7 @@ Nu trebuie să existe o persoană în echipă care să fi contribuit semnificati
 
 - Absența greșelilor de natură științifică din conținut.
 
-#Capitolul V. Prezentarea proiectului 10 puncte
+#Capitolul V. Prezentarea proiectului **10 puncte**
 
 ##Secțiunea V.1. Impresia generală a proiectului
 
