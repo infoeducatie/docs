@@ -82,7 +82,7 @@ Cuprins:
 ###Subsecțiunea I.4.1. Echipa de organizatori
 
 1. Echipa de organizatori are datoria de a verifica fiecare înscriere în vederea stabilirii validității acesteia.
-2. Pentru orice proiect respins, echipa de organizatori are obligația de a anunța echipa în mai puțin de 48 de ore de la respingerea acesteia.
+2. Pentru orice proiect respins, organizatorii au obligația de a anunța echipa în mai puțin de 48 de ore de la respingerea acesteia.
 
 ###Subsecțiunea I.4.2. Participanții
 
@@ -96,7 +96,7 @@ Acest capitol se referă la toate materiale, documentele și resursele adiționa
 ##Secțiunea II.1. Codul sursă
 Această prevedere nu se aplică pentru secțiunea Multimedia.
 
-1. Codul sursă pentru fiecare proiect trebuie să fie accesibil pe GitHub.
+1. Codul sursă pentru fiecare proiect trebuie să fie accesibil pe GitHub înainte de termenul limită impus de organizatori.
 
 ###Subsecțiunea II.1.1. Proiecte open-source
 
@@ -105,9 +105,9 @@ Această prevedere nu se aplică pentru secțiunea Multimedia.
 
 ###Subsecțiunea II.1.2. Proiecte private
 
-1. Fiecare echipă ce nu dorește să publice codul sursă pentru proiectul său, trebuie să specifice acest lucru la înscriere.
-2. În cazul în care motivul invocat nu este unul valid, organizatorii au posibilitatea de a respinge proiectul.
-3. Fiecare echipă ce este înscrisă în concurs cu un proiect cu surse private va primi din partea echipei de dezvoltare un repository privat gratuit pe Github.
+1. Fiecare echipă ce nu dorește să publice codul sursă pentru proiectul ei, trebuie să specifice acest lucru la înscriere.
+2. În cazul în care motivul invocat nu este unul valid, organizatorii au posibilitatea de a cere informații suplimentare în timpul prezentării.
+3. Fiecare echipă ce este înscrisă în concurs cu un proiect cu surse private va primi din partea juriului un repository privat gratuit pe Github.
 4. Juriul InfoEducație se obligă să nu divulge persoanelor neimplicate în jurizare conținutul proiectelor înscrise în concurs.
 
 ##Secțiunea II.2. Specificațiile proiectului
@@ -120,8 +120,8 @@ Această prevedere nu se aplică pentru secțiunea Multimedia.
 Proiectul trebuie să conțină o scurtă prezentarea a acestuia și/sau o documentație.
 
 1. Prezentarea sau documentația trebuie să conțină o listă cu toate resursele externe folosite (tutoriale, cod autogenerat de diverse utilitare, exemple de cod etc), în caz contrar acest lucru poate duce descalificarea proiectului.
-    - Prezentarea proiectului, dacă există, trebuie să fie în aceeași locație cu codul sursă (poate fi un fișier README)
-    - Documentația proiectului poate să însoțească proiectul sau poate să fie în altă locație atât timă cât este specificat în fișierul README
+    - Prezentarea proiectului, dacă există, trebuie să fie în aceeași locație cu codul sursă (fișier README)
+    - Documentația proiectului poate să însoțească proiectul sau poate să fie în altă locație atât timp cât este specificată în fișierul README
 
 ###Subsecțiunea II.3.1 Documentația proiectului
 
@@ -141,7 +141,7 @@ Proiectul trebuie să conțină o scurtă prezentarea a acestuia și/sau o docum
 ##Subcapitolul III.1. Programarea proiectelor
 
 1. Juriul fiecărei secțiuni va anunța în prima zi de tabără, în timpul ședinței tehnice, programul destinat instalării proiectelor.
-2. Fiecare echipă are datoria de a se prezenta cu 15 minute înainte de programarea proiectului lor.
+2. Fiecare echipă are datoria de a se prezenta cu 15 minute înainte de ora la care a fost programată lucrarea lor.
 
 ##Subcapitolul III.2. Instalarea proiectului
 
