@@ -29,7 +29,7 @@ Secțiunea Software Utilitar
 
 #Capitolul I. Arhitectura aplicației - **30 puncte**
 
-În cadrul acestui criteriu vom urmări toți pașii urmați în dezvoltarea proiectului propus.
+În cadrul acestui capitol vom urmări toți pașii urmați în dezvoltarea proiectului propus.
 
 ##Secțiunea I.1. Alegerea tematicii
 Această secțiune va puncta originalitatea ideii propuse, perspectiva în care a fost abordată tematica și maniera în care aduce beneficii publicului țintă.
