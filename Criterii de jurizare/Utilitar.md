@@ -12,7 +12,7 @@ Secțiunea Software Utilitar
     - [Secțiunea II.2. Maturitatea aplicației](#secțiunea-ii2-maturitatea-aplicației)
     - [Secțiunea II.3. Tehnologiile folosite](#secțiunea-ii3-tehnologiile-folosite)
     - [Secțiunea II.4. Securitatea aplicației](#secțiunea-ii4-securitatea-aplicației)
-    - [Secțiunea II.5. Eficiență și portabilitate](#secțiunea-ii5-eficiență-și-portabilitate)
+    - [Secțiunea II.5. Funcționalitate](#secțiunea-ii5-funcționalitate)
     - [Secțiunea II.6. Testarea produsului](#secțiunea-ii6-testarea-produsului)
     - [Secțiunea II.7. Distribuirea rolurilor în echipă](#secțiunea-ii7-distribuirea-rolurilor-în-echipă)
 - [Capitolul III. Interfața (GUI / CUI)](#capitolul-iii-interfața-gui-cui-15-puncte) - **15 puncte**
@@ -88,17 +88,15 @@ Elemente ce pot fi punctate:
 
 **Atenție** - Această secțiune va fi punctată direct proporțional cu complexitatea și necesitatea de securitate a aplicației.
 
-##Secțiunea II.5. Eficiență și portabilitate
-O aplicație mobilă trebuie să fie proiectată în așa fel încât să poată fi folosită de un public cât mai larg și cât mai divers. De aceea, avem în vedere, în cadrul acestei secțiuni, următoarele:
-
-- **Portabilitatea aplicației** - este foarte important ca o aplicației să fie disponibilă pe o gamă largă de dispozitive și platforme, relativ la domeniul de aplicare a proiectului, fără a suferi modificări drastice (în limita posibilităților tehnologiilor disponibile). Se vor puncta următoarele aspecte:
+##Secțiunea II.5. Funcționalitate
+O aplicație trebuie să fie proiectată în așa fel încât să poată fi folosită cât mai ușor și eficient de către utilizatorii pentru care a fost creată. În acest scop, putem puncta următoarele:
+	- posibilitatea de a folosi aplicația pe cât mai multe din dispozitivele folosite de public țintă ales.
+	- posibilitatea arhitecturii de a fi portată cu ușurință de pe o platformă pe alta (dacă aplicația este destinată să fie cross-platform).
 	- aplicația să se adapteze la diverse rezoluții, în funcție de dispozitiv, platformă și parametrii acesteia, având grijă ca aplicația să nu necesite resetarea pentru a obține această funcționalitate (acolo unde este cazul).
-	- să ofere un minim de funcționalitate în cazul pierderii conexiunii la internet (acolo unde este cazul).
-
-- **Folosirea eficientă și completă a platformei** - este foarte importantă exploatarea corectă și tactică a posibilităților platformei pe care va rula aplicația dezvoltată. Se vor puncta următoarele aspecte:
 	- cât de eficient și responsabil se utilizează resursele sistemului (CPU, RAM etc).
 	- cât de bine sunt folosiți senzorii disponibili atunci când este cazul (accelerometru, giroscop, GPS).
 	- cât de eficient și responsabil sunt folosite capabilitățile de networking (WIFI direct, Bluetooth, infraroșu etc).
+	- posibilitatea de a oferi un minim de funcționalitate în cazul pierderii conexiunii la internet (acolo unde este cazul).
 	- eficiența comunicării prin canale externe, acolo unde este cazul (folosirea unui cache, folosirea unor cereri de tip batch etc).
 
 ##Secțiunea II.6. Testarea produsului
@@ -140,9 +138,9 @@ Vor fi punctate elemente ce țin de maniera de prezentare și justificare a nece
 În documentația proiectului vă sugerăm să punctați următoarele aspecte:
 
 - Abstract:
-	- informații generice despre proiect.
+	- o descriere scurtă și exactă asupra scopului aplicației și a principalelor funcționalități.
+- Prezentarea funcționalităților aplicației.
 - Arhitectura aplicației.
-- Prezentarea aplicației.
 - Elemente distinctive ale aplicației / puncte forte.
 - Ghid de instalare și configurare a aplicație.
 - Raspunsuri de cel putin un paragraf pentru urmatoarele intrebari:
@@ -175,4 +173,4 @@ Printre acestea putem menționa:
 - Aplicațiile înscrise ce conțin alte funcționalități, în afara celor declarate (cod malițios), vor fi descalificate.
 - Folosirea unor resurse externe ce nu sunt declarate odată cu predarea proiectului va duce, după caz, la depunctarea sau chiar descalificarea participanților din concurs.
 - Orice tentativă de fraudă (spre exemplu, copierea unui proiect) va duce la descalificarea proiectului din concurs.
-- Punctajele acordate pentru capitolul [I. Arhitectura aplicației](#capitolul-i-arhitectura-aplicației-30-puncte) și [II. Implementarea aplicației](#capitolul-ii-implementarea-aplicației-40-puncte) **sunt direct proporționale cu complexitatea și amploarea proiectului dezvoltat**. 
+- **Atenție** - Punctajele acordate pentru capitolul [I. Arhitectura aplicației](#capitolul-i-arhitectura-aplicației-30-puncte) și [II. Implementarea aplicației](#capitolul-ii-implementarea-aplicației-40-puncte) **sunt direct proporționale cu complexitatea și amploarea proiectului dezvoltat**. 
