@@ -59,13 +59,12 @@ Aspecte ce pot fi punctate:
 	- fezabilitatea proiectului pe termen scurt / lung.
 	- existența unui public țintă bine definit.
 
-
 #Capitolul II. Implementarea aplicației - **50 puncte**
 
-##Secțiunea II.1. Eleganța implementării
+##Secțiunea II.1. Eleganța implementării - **10 puncte**
 Încurajăm dezvoltatorii să proiecteze și să implementeze aplicația într-o manieră care să le faciliteze posibilitatea extinderii cu ușurință a funcționalităților aplicației cu o cât mai mică intervenție asupra codului scris.
 
-##Secțiunea II.2. Funcționalitate
+##Secțiunea II.2. Funcționalitate - **15 puncte**
 O aplicație trebuie să fie proiectată în așa fel încât să poată fi folosită cât mai ușor și eficient de către utilizatorii pentru care a fost creată. În acest scop, putem puncta următoarele:
 	- posibilitatea de a folosi aplicația pe cât mai multe din dispozitivele folosite de public țintă ales.
 	- posibilitatea arhitecturii de a fi portată cu ușurință de pe o platformă pe alta (dacă aplicația este destinată să fie cross-platform).
@@ -76,10 +75,10 @@ O aplicație trebuie să fie proiectată în așa fel încât să poată fi folo
 	- posibilitatea de a oferi un minim de funcționalitate în cazul pierderii conexiunii la internet (acolo unde este cazul).
 	- eficiența comunicării prin canale externe, acolo unde este cazul (folosirea unui cache, folosirea unor cereri de tip batch etc).
 
-##Secțiunea II.3. Tehnologiile folosite
+##Secțiunea II.3. Tehnologiile folosite - **5 puncte**
 În vederea evaluării acestui criteriu se va ține cont atât de necesitatea folosirii fiecărei tehnologii în realizarea proiectului, cât și de alegerea tehnologiilor potrivite pentru aplicația prezentată.
 
-##Secțiunea II.4. Securitatea aplicației
+##Secțiunea II.4. Securitatea aplicației - **5 puncte**
 În cadrul acestei secțiuni se va urmări modalitățile abordate de autori pentru a evita executarea de scenarii nedorite în cadrul aplicației.
 
 Elemente ce pot fi punctate:
@@ -89,7 +88,7 @@ Elemente ce pot fi punctate:
 
 **Atenție** - Această secțiune va fi punctată direct proporțional cu complexitatea și necesitatea de securitate a aplicației.
 
-##Secțiunea II.5. Testarea produsului
+##Secțiunea II.5. Testarea produsului - **5 puncte**
 În cadrul dezvoltării unui proiect, există posibilitatea apariției unor probleme sau scenarii neprevăzute în cadrul etapei de dezvoltare arhitecturală.
 
 Elemente ce pot fi punctate în această secțiune:
@@ -100,7 +99,7 @@ Elemente ce pot fi punctate în această secțiune:
 - Modalități de automatizare a întregului proces de testare.
 
 
-##Secțiunea II.6. Maturitatea aplicației
+##Secțiunea II.6. Maturitatea aplicației - **5 puncte**
 În cadrul acestei secțiuni se va evalua starea în care se află aplicația și cât de aproape este aceasta pentru a putea fi distribuită publicului țintă.
 
 Elemente ce pot fi punctate:
@@ -109,7 +108,7 @@ Elemente ce pot fi punctate:
 - utilizarea aplicației în lumea reală de către publicul țintă.
 
 
-##Secțiunea II.7. Distribuirea rolurilor în echipă
+##Secțiunea II.7. Folosirea unui sistem de versionare - **5 puncte**
 Pentru a putea evidenția contribuția fiecărui membru din echipă, este obligatorie folosirea unui sistem de versionare (GIT / SVN).
 **Atenție** - Orice echipă ce nu folosește un sistem de versionare nu va putea participa în concurs!
 
