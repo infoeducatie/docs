@@ -4,17 +4,17 @@ Secțiunea Software Utilitar
 --------------------
 
 - [Capitolul I. Arhitectura aplicației](#capitolul-i-arhitectura-aplicației-25-puncte) - **25 puncte**
-	- [Secțiunea I.1. Alegerea tematicii](#secțiunea-i1-alegerea-tematicii)
-	- [Secțiunea I.2. Proiectarea arhitecturală](#secțiunea-i2-proiectarea-arhitecturală)
-	- [Secțiunea I.3. Analiza pieței](#secțiunea-i3-analiza-pieței)
-- [Capitolul II. Implementarea aplicației](#capitolul-ii-implementarea-aplicației-50-puncte) - 50 puncte
-	- [Secțiunea II.1. Eleganța implementării](#secțiunea-ii1-eleganța-implementării-10-puncte) - 10 puncte
-	- [Secțiunea II.2. Funcționalitate](#secțiunea-ii2-funcționalitate-15-puncte) - 15 puncte
-	- [Secțiunea II.3. Tehnologiile folosite](#secțiunea-ii3-tehnologiile-folosite-5-puncte) - 5 puncte
-	- [Secțiunea II.4. Securitatea aplicației](#secțiunea-ii4-securitatea-aplicației-5-puncte) - 5 puncte
-	- [Secțiunea II.5. Testarea produsului](#secțiunea-ii5-testarea-produsului-5-puncte) - 5 puncte
-	- [Secțiunea II.6. Maturitatea aplicației](#secțiunea-ii6-maturitatea-aplicației-5-puncte) - 5 puncte
-	- [Secțiunea II.7. Folosirea unui sistem de versionare](#secțiunea-ii7-folosirea-unui-sistem-de-versionare-5-puncte) - 5 puncte
+	- [Secțiunea I.1. Alegerea tematicii](#secțiunea-i1-alegerea-tematicii-5-puncte)
+	- [Secțiunea I.2. Proiectarea arhitecturală](#secțiunea-i2-proiectarea-arhitecturală-15-puncte)
+	- [Secțiunea I.3. Analiza pieței](#secțiunea-i3-analiza-pieței-5-puncte)
+- [Capitolul II. Implementarea aplicației](#capitolul-ii-implementarea-aplicației-50-puncte) - **50 puncte**
+    - [Secțiunea II.1. Eleganța implementării](#secțiunea-ii1-eleganța-implementării)
+    - [Secțiunea II.2. Maturitatea aplicației](#secțiunea-ii2-maturitatea-aplicației)
+    - [Secțiunea II.3. Tehnologiile folosite](#secțiunea-ii3-tehnologiile-folosite)
+    - [Secțiunea II.4. Securitatea aplicației](#secțiunea-ii4-securitatea-aplicației)
+    - [Secțiunea II.5. Funcționalitate](#secțiunea-ii5-funcționalitate)
+    - [Secțiunea II.6. Testarea produsului](#secțiunea-ii6-testarea-produsului)
+    - [Secțiunea II.7. Distribuirea rolurilor în echipă](#secțiunea-ii7-distribuirea-rolurilor-în-echipă)
 - [Capitolul III. Interfața (GUI / CUI)](#capitolul-iii-interfața-gui-cui-15-puncte) - **15 puncte**
 	- [Secțiunea III.1. Impresia generală](#secțiunea-iii1-impresia-generală)
 	- [Secțiunea III.2. Ușurință în folosire](#secțiunea-iii2-ușurință-în-folosire)
@@ -31,23 +31,23 @@ Secțiunea Software Utilitar
 
 În cadrul acestui capitol vom urmări toți pașii urmați în dezvoltarea proiectului propus.
 
-##Secțiunea I.1. Alegerea tematicii
-Această secțiune va puncta originalitatea ideii propuse, perspectiva în care a fost abordată tematica și maniera în care aduce beneficii publicului țintă.
+##Secțiunea I.1. Alegerea tematicii - **5 puncte**
+Această secțiune va puncta originalitatea ideii propuse, perspectiva din care a fost abordată tematica și maniera în care aduce beneficii publicului țintă.
 
-##Secțiunea I.2. Proiectarea arhitecturală
-Poate unul dintre cei mai importanți pași în dezvoltarea unei aplicații este proiectarea arhitecturală. În cadrul acestui pas se alege maniera de implementare a proiectului dar și tehnologiile ce avantajeaza dezvoltarea acestuia.
-
+##Secțiunea I.2. Proiectarea arhitecturală - **15 puncte**
+Poate unul dintre cei mai importanți pași în dezvoltarea unei aplicații este proiectarea arhitecturală. În cadrul acestui pas se alege maniera de implementare a proiectului, modul în care interacționează componentele aplicației între ele dar și tehnologiile ce avantajează dezvoltarea acestuia.
+ 
 Aspecte ce pot fi punctate:
 
- - alegerea tehnologiilor potrivite pentru acest tip de proiect.
+ - alegerea tehnologiilor potrivite pentru tipul de proiect și arhitectura ce trebuie realizată.
  - folosirea paradigmelor de programare obiectuală şi/sau funcţională, acolo unde este cazul.
  - folosirea unor tehnologii open source.
  - crearea unor noi servicii/tehnologii.
 
-##Secțiunea I.3. Analiza pieței
+##Secțiunea I.3. Analiza pieței - **5 puncte**
 După alegerea unei tematici, dezvoltatorul trebuie să se documenteze referitor la proiecte asemănătoare sau la maniere alternative de implementare.
 
-În cazul în care soluția dezvoltatorului nu aduce nici un beneficiu în plus, aplicația reprezintă doar o reimplementare iar această secțiune nu va fi punctată.
+În cazul în care soluția dezvoltatorului nu aduce nici un beneficiu în plus, aplicația reprezintă doar o reimplementare fără îmbunătățiri iar această secțiune nu va fi punctată.
 
 Aspecte ce pot fi punctate:
 
@@ -59,39 +59,47 @@ Aspecte ce pot fi punctate:
 	- fezabilitatea proiectului pe termen scurt / lung.
 	- existența unui public țintă bine definit.
 
+
 #Capitolul II. Implementarea aplicației - **50 puncte**
 
-##Secțiunea II.1. Eleganța implementării - **10 puncte**
+##Secțiunea II.1. Eleganța implementării
 Încurajăm dezvoltatorii să proiecteze și să implementeze aplicația într-o manieră care să le faciliteze posibilitatea extinderii cu ușurință a funcționalităților aplicației cu o cât mai mică intervenție asupra codului scris.
 
-##Secțiunea II.2. Funcționalitate - **15 puncte**
-O aplicație trebuie să fie proiectată în așa fel încât să poată fi folosită cât mai ușor și eficient de către utilizatorii pentru care a fost creată.
+##Secțiunea II.2. Maturitatea aplicației
+În cadrul acestei secțiuni se va evalua starea în care se află aplicația și cât de aproape este aceasta pentru a putea fi distribuită publicului țintă.
 
-În acest scop, putem puncta următoarele:
+Elemente ce pot fi punctate:
 
-- posibilitatea de a folosi aplicația pe cât mai multe din dispozitivele folosite de public țintă ales.
-- posibilitatea arhitecturii de a fi portată cu ușurință de pe o platformă pe alta (doar dacă aplicația este destinată să fie cross-platform).
-- aplicația să se adapteze la diverse rezoluții, în funcție de dispozitiv, platformă și parametrii acesteia, având grijă ca aplicația să nu necesite resetarea pentru a obține această funcționalitate (doar acolo unde este cazul).
-- cât de eficient și responsabil se utilizează resursele sistemului (CPU, RAM, spațiu pe disk, baterie etc).
-- cât de bine sunt folosiți senzorii disponibili atunci când este cazul (accelerometru, giroscop, GPS).
-- cât de eficient și responsabil sunt folosite capabilitățile de networking (WIFI direct, Bluetooth, infraroșu etc).
-- posibilitatea de a oferi un minim de funcționalitate în cazul pierderii conexiunii la internet (doar acolo unde este cazul).
-- eficiența comunicării prin canale externe, acolo unde este cazul (folosirea unui cache, folosirea unor cereri de tip batch etc).
+- viziunea aplicatiei in conformitate cu publicul tinta ales.
+- stadiul său, relativ la fiecare secțiune.
+- utilizarea aplicației în lumea reală de către publicul țintă.
 
-##Secțiunea II.3. Tehnologiile folosite - **5 puncte**
+##Secțiunea II.3. Tehnologiile folosite
 În vederea evaluării acestui criteriu se va ține cont atât de necesitatea folosirii fiecărei tehnologii în realizarea proiectului, cât și de alegerea tehnologiilor potrivite pentru aplicația prezentată.
 
-##Secțiunea II.4. Securitatea aplicației - **5 puncte**
+##Secțiunea II.4. Securitatea aplicației
 În cadrul acestei secțiuni se va urmări modalitățile abordate de autori pentru a evita executarea de scenarii nedorite în cadrul aplicației.
 
 Elemente ce pot fi punctate:
+
 - Validarea datelor de intrare și mecanisme de prevenție și protecție împotriva diverselor vulnerabilități (injecții, părăsirea sandbox-ului, escaladarea privilegiilor etc).
 - Tratarea erorilor și a excepțiilor.
 - Mecanisme de detecție și, eventual, blocare a atacurilor.
 
 **Atenție** - Această secțiune va fi punctată direct proporțional cu complexitatea și necesitatea de securitate a aplicației.
 
-##Secțiunea II.5. Testarea produsului - **5 puncte**
+##Secțiunea II.5. Funcționalitate
+O aplicație trebuie să fie proiectată în așa fel încât să poată fi folosită cât mai ușor și eficient de către utilizatorii pentru care a fost creată. În acest scop, putem puncta următoarele:
+	- posibilitatea de a folosi aplicația pe cât mai multe din dispozitivele folosite de public țintă ales.
+	- posibilitatea arhitecturii de a fi portată cu ușurință de pe o platformă pe alta (dacă aplicația este destinată să fie cross-platform).
+	- aplicația să se adapteze la diverse rezoluții, în funcție de dispozitiv, platformă și parametrii acesteia, având grijă ca aplicația să nu necesite resetarea pentru a obține această funcționalitate (acolo unde este cazul).
+	- cât de eficient și responsabil se utilizează resursele sistemului (CPU, RAM etc).
+	- cât de bine sunt folosiți senzorii disponibili atunci când este cazul (accelerometru, giroscop, GPS).
+	- cât de eficient și responsabil sunt folosite capabilitățile de networking (WIFI direct, Bluetooth, infraroșu etc).
+	- posibilitatea de a oferi un minim de funcționalitate în cazul pierderii conexiunii la internet (acolo unde este cazul).
+	- eficiența comunicării prin canale externe, acolo unde este cazul (folosirea unui cache, folosirea unor cereri de tip batch etc).
+
+##Secțiunea II.6. Testarea produsului
 În cadrul dezvoltării unui proiect, există posibilitatea apariției unor probleme sau scenarii neprevăzute în cadrul etapei de dezvoltare arhitecturală.
 
 Elemente ce pot fi punctate în această secțiune:
@@ -101,23 +109,8 @@ Elemente ce pot fi punctate în această secțiune:
 - Eventuale defecțiuni ale sistemelor de care proiectul depinde (internet, baza de date, etc).
 - Modalități de automatizare a întregului proces de testare.
 
-
-##Secțiunea II.6. Maturitatea aplicației - **5 puncte**
-În cadrul acestei secțiuni se va evalua starea în care se află aplicația și cât de aproape este aceasta pentru a putea fi distribuită publicului țintă.
-
-Elemente ce pot fi punctate:
-- viziunea aplicatiei in conformitate cu publicul tinta ales.
-- stadiul său, relativ la fiecare secțiune.
-- utilizarea aplicației în lumea reală de către publicul țintă.
-
-
-##Secțiunea II.7. Folosirea unui sistem de versionare - **5 puncte**
-În cadrul acestei secțiuni vom puncta următoarele aspecte:
-
-- existența de stări intermediare pentru proiectul dezvoltat
-- folosirea corespunzătoare a capacităților sistemului de versionare (branch, tags etc)
-- mesaje relevante în istoria proiectului
-
+##Secțiunea II.7. Distribuirea rolurilor în echipă
+Pentru a putea evidenția contribuția fiecărui membru din echipă, este obligatorie folosirea unui sistem de versionare (GIT / SVN).
 **Atenție** - Orice echipă ce nu folosește un sistem de versionare nu va putea participa în concurs!
 
 #Capitolul III. Interfața (GUI / CUI) - **15 puncte**
