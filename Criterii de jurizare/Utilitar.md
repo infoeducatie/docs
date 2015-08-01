@@ -4,9 +4,9 @@ Secțiunea Software Utilitar
 --------------------
 
 - [Capitolul I. Arhitectura aplicației](#capitolul-i-arhitectura-aplicației-25-puncte) - **25 puncte**
-	- [Secțiunea I.1. Alegerea tematicii](#secțiunea-i1-alegerea-tematicii)
-	- [Secțiunea I.2. Proiectarea arhitecturală](#secțiunea-i2-proiectarea-arhitecturală)
-	- [Secțiunea I.3. Analiza pieței](#secțiunea-i3-analiza-pieței)
+	- [Secțiunea I.1. Alegerea tematicii](#secțiunea-i1-alegerea-tematicii-5-puncte)
+	- [Secțiunea I.2. Proiectarea arhitecturală](#secțiunea-i2-proiectarea-arhitecturală-15-puncte)
+	- [Secțiunea I.3. Analiza pieței](#secțiunea-i3-analiza-pieței-5-puncte)
 - [Capitolul II. Implementarea aplicației](#capitolul-ii-implementarea-aplicației-50-puncte) - **50 puncte**
     - [Secțiunea II.1. Eleganța implementării](#secțiunea-ii1-eleganța-implementării)
     - [Secțiunea II.2. Maturitatea aplicației](#secțiunea-ii2-maturitatea-aplicației)
@@ -31,23 +31,23 @@ Secțiunea Software Utilitar
 
 În cadrul acestui capitol vom urmări toți pașii urmați în dezvoltarea proiectului propus.
 
-##Secțiunea I.1. Alegerea tematicii
-Această secțiune va puncta originalitatea ideii propuse, perspectiva în care a fost abordată tematica și maniera în care aduce beneficii publicului țintă.
+##Secțiunea I.1. Alegerea tematicii - **5 puncte**
+Această secțiune va puncta originalitatea ideii propuse, perspectiva din care a fost abordată tematica și maniera în care aduce beneficii publicului țintă.
 
-##Secțiunea I.2. Proiectarea arhitecturală
-Poate unul dintre cei mai importanți pași în dezvoltarea unei aplicații este proiectarea arhitecturală. În cadrul acestui pas se alege maniera de implementare a proiectului dar și tehnologiile ce avantajeaza dezvoltarea acestuia.
-
+##Secțiunea I.2. Proiectarea arhitecturală - **15 puncte**
+Poate unul dintre cei mai importanți pași în dezvoltarea unei aplicații este proiectarea arhitecturală. În cadrul acestui pas se alege maniera de implementare a proiectului, modul în care interacționează componentele aplicației între ele dar și tehnologiile ce avantajează dezvoltarea acestuia.
+ 
 Aspecte ce pot fi punctate:
 
- - alegerea tehnologiilor potrivite pentru acest tip de proiect.
+ - alegerea tehnologiilor potrivite pentru tipul de proiect și arhitectura ce trebuie realizată.
  - folosirea paradigmelor de programare obiectuală şi/sau funcţională, acolo unde este cazul.
  - folosirea unor tehnologii open source.
  - crearea unor noi servicii/tehnologii.
 
-##Secțiunea I.3. Analiza pieței
+##Secțiunea I.3. Analiza pieței - **5 puncte**
 După alegerea unei tematici, dezvoltatorul trebuie să se documenteze referitor la proiecte asemănătoare sau la maniere alternative de implementare.
 
-În cazul în care soluția dezvoltatorului nu aduce nici un beneficiu în plus, aplicația reprezintă doar o reimplementare iar această secțiune nu va fi punctată.
+În cazul în care soluția dezvoltatorului nu aduce nici un beneficiu în plus, aplicația reprezintă doar o reimplementare fără îmbunătățiri iar această secțiune nu va fi punctată.
 
 Aspecte ce pot fi punctate:
 
