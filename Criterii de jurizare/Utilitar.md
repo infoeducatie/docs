@@ -65,15 +65,18 @@ Aspecte ce pot fi punctate:
 Încurajăm dezvoltatorii să proiecteze și să implementeze aplicația într-o manieră care să le faciliteze posibilitatea extinderii cu ușurință a funcționalităților aplicației cu o cât mai mică intervenție asupra codului scris.
 
 ##Secțiunea II.2. Funcționalitate - **15 puncte**
-O aplicație trebuie să fie proiectată în așa fel încât să poată fi folosită cât mai ușor și eficient de către utilizatorii pentru care a fost creată. În acest scop, putem puncta următoarele:
-	- posibilitatea de a folosi aplicația pe cât mai multe din dispozitivele folosite de public țintă ales.
-	- posibilitatea arhitecturii de a fi portată cu ușurință de pe o platformă pe alta (dacă aplicația este destinată să fie cross-platform).
-	- aplicația să se adapteze la diverse rezoluții, în funcție de dispozitiv, platformă și parametrii acesteia, având grijă ca aplicația să nu necesite resetarea pentru a obține această funcționalitate (acolo unde este cazul).
-	- cât de eficient și responsabil se utilizează resursele sistemului (CPU, RAM etc).
-	- cât de bine sunt folosiți senzorii disponibili atunci când este cazul (accelerometru, giroscop, GPS).
-	- cât de eficient și responsabil sunt folosite capabilitățile de networking (WIFI direct, Bluetooth, infraroșu etc).
-	- posibilitatea de a oferi un minim de funcționalitate în cazul pierderii conexiunii la internet (acolo unde este cazul).
-	- eficiența comunicării prin canale externe, acolo unde este cazul (folosirea unui cache, folosirea unor cereri de tip batch etc).
+O aplicație trebuie să fie proiectată în așa fel încât să poată fi folosită cât mai ușor și eficient de către utilizatorii pentru care a fost creată.
+
+În acest scop, putem puncta următoarele:
+
+- posibilitatea de a folosi aplicația pe cât mai multe din dispozitivele folosite de public țintă ales.
+- posibilitatea arhitecturii de a fi portată cu ușurință de pe o platformă pe alta (doar dacă aplicația este destinată să fie cross-platform).
+- aplicația să se adapteze la diverse rezoluții, în funcție de dispozitiv, platformă și parametrii acesteia, având grijă ca aplicația să nu necesite resetarea pentru a obține această funcționalitate (doar acolo unde este cazul).
+- cât de eficient și responsabil se utilizează resursele sistemului (CPU, RAM, spațiu pe disk, baterie etc).
+- cât de bine sunt folosiți senzorii disponibili atunci când este cazul (accelerometru, giroscop, GPS).
+- cât de eficient și responsabil sunt folosite capabilitățile de networking (WIFI direct, Bluetooth, infraroșu etc).
+- posibilitatea de a oferi un minim de funcționalitate în cazul pierderii conexiunii la internet (doar acolo unde este cazul).
+- eficiența comunicării prin canale externe, acolo unde este cazul (folosirea unui cache, folosirea unor cereri de tip batch etc).
 
 ##Secțiunea II.3. Tehnologiile folosite - **5 puncte**
 În vederea evaluării acestui criteriu se va ține cont atât de necesitatea folosirii fiecărei tehnologii în realizarea proiectului, cât și de alegerea tehnologiilor potrivite pentru aplicația prezentată.
@@ -109,7 +112,12 @@ Elemente ce pot fi punctate:
 
 
 ##Secțiunea II.7. Folosirea unui sistem de versionare - **5 puncte**
-Pentru a putea evidenția contribuția fiecărui membru din echipă, este obligatorie folosirea unui sistem de versionare (GIT / SVN).
+În cadrul acestei secțiuni vom puncta următoarele aspecte:
+
+- existența de stări intermediare pentru proiectul dezvoltat
+- folosirea corespunzătoare a capacităților sistemului de versionare (branch, tags etc)
+- mesaje relevante în istoria proiectului
+
 **Atenție** - Orice echipă ce nu folosește un sistem de versionare nu va putea participa în concurs!
 
 #Capitolul III. Interfața (GUI / CUI) - **15 puncte**
