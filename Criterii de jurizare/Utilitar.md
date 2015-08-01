@@ -1,6 +1,6 @@
-﻿**Criterii de jurizare - InfoEducație 2015**
+**Criterii de jurizare - InfoEducație 2015**
 ===============================
-Secțiunea Software Utilitar 
+Secțiunea Software Utilitar
 --------------------
 
 - [Capitolul I. Arhitectura aplicației](#capitolul-i-arhitectura-aplicației-25-puncte) - **25 puncte**
@@ -180,4 +180,4 @@ Printre acestea putem menționa:
 - Aplicațiile înscrise ce conțin alte funcționalități, în afara celor declarate (cod malițios), vor fi descalificate.
 - Folosirea unor resurse externe ce nu sunt declarate odată cu predarea proiectului va duce, după caz, la depunctarea sau chiar descalificarea participanților din concurs.
 - Orice tentativă de fraudă (spre exemplu, copierea unui proiect) va duce la descalificarea proiectului din concurs.
-- **Atenție** - Punctajele acordate pentru capitolul [I. Arhitectura aplicației](#capitolul-i-arhitectura-aplicației-30-puncte) și [II. Implementarea aplicației](#capitolul-ii-implementarea-aplicației-40-puncte) **sunt direct proporționale cu complexitatea și amploarea proiectului dezvoltat**. 
+- **Atenție** - Punctajele acordate pentru capitolul [I. Arhitectura aplicației](#capitolul-i-arhitectura-aplicației-30-puncte) și [II. Implementarea aplicației](#capitolul-ii-implementarea-aplicației-40-puncte) **sunt direct proporționale cu complexitatea și amploarea proiectului dezvoltat**.
