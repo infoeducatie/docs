@@ -7,14 +7,14 @@ Secțiunea Software Utilitar
 	- [Secțiunea I.1. Alegerea tematicii](#secțiunea-i1-alegerea-tematicii)
 	- [Secțiunea I.2. Proiectarea arhitecturală](#secțiunea-i2-proiectarea-arhitecturală)
 	- [Secțiunea I.3. Analiza pieței](#secțiunea-i3-analiza-pieței)
-- [Capitolul II. Implementarea aplicației](#capitolul-ii-implementarea-aplicației-50-puncte) - **50 puncte**
-    - [Secțiunea II.1. Eleganța implementării](#secțiunea-ii1-eleganța-implementării)
-    - [Secțiunea II.2. Maturitatea aplicației](#secțiunea-ii2-maturitatea-aplicației)
-    - [Secțiunea II.3. Tehnologiile folosite](#secțiunea-ii3-tehnologiile-folosite)
-    - [Secțiunea II.4. Securitatea aplicației](#secțiunea-ii4-securitatea-aplicației)
-    - [Secțiunea II.5. Funcționalitate](#secțiunea-ii5-funcționalitate)
-    - [Secțiunea II.6. Testarea produsului](#secțiunea-ii6-testarea-produsului)
-    - [Secțiunea II.7. Distribuirea rolurilor în echipă](#secțiunea-ii7-distribuirea-rolurilor-în-echipă)
+- [Capitolul II. Implementarea aplicației](#capitolul-ii-implementarea-aplicației-50-puncte) - 50 puncte
+	- [Secțiunea II.1. Eleganța implementării](#secțiunea-ii1-eleganța-implementării-10-puncte) - 10 puncte
+	- [Secțiunea II.2. Funcționalitate](#secțiunea-ii2-funcționalitate-15-puncte) - 15 puncte
+	- [Secțiunea II.3. Tehnologiile folosite](#secțiunea-ii3-tehnologiile-folosite-5-puncte) - 5 puncte
+	- [Secțiunea II.4. Securitatea aplicației](#secțiunea-ii4-securitatea-aplicației-5-puncte) - 5 puncte
+	- [Secțiunea II.5. Testarea produsului](#secțiunea-ii5-testarea-produsului-5-puncte) - 5 puncte
+	- [Secțiunea II.6. Maturitatea aplicației](#secțiunea-ii6-maturitatea-aplicației-5-puncte) - 5 puncte
+	- [Secțiunea II.7. Folosirea unui sistem de versionare](#secțiunea-ii7-folosirea-unui-sistem-de-versionare-5-puncte) - 5 puncte
 - [Capitolul III. Interfața (GUI / CUI)](#capitolul-iii-interfața-gui-cui-15-puncte) - **15 puncte**
 	- [Secțiunea III.1. Impresia generală](#secțiunea-iii1-impresia-generală)
 	- [Secțiunea III.2. Ușurință în folosire](#secțiunea-iii2-ușurință-în-folosire)
