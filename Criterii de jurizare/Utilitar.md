@@ -4,10 +4,10 @@ Secțiunea Software Utilitar
 --------------------
 
 - [Capitolul I. Arhitectura aplicației](#capitolul-i-arhitectura-aplicației-25-puncte) - **25 puncte**
-	- [Secțiunea I.1. Alegerea tematicii - 5 puncte](#secțiunea-i1-alegerea-tematicii-5-puncte)
-	- [Secțiunea I.2. Proiectarea arhitecturală - 15 puncte](#secțiunea-i2-proiectarea-arhitecturală-15-puncte)
-	- [Secțiunea I.3. Analiza pieței - 5 puncte](#secțiunea-i3-analiza-pieței)
-- [Capitolul II. Implementarea aplicației](#capitolul-ii-implementarea-aplicației-50-puncte) - 50 puncte
+	- [Secțiunea I.1. Alegerea tematicii](#secțiunea-i1-alegerea-tematicii-5-puncte) - 5 puncte
+	- [Secțiunea I.2. Proiectarea arhitecturală](#secțiunea-i2-proiectarea-arhitecturală-15-puncte) - 15 puncte
+	- [Secțiunea I.3. Analiza pieței](#secțiunea-i3-analiza-pieței) - 5 puncte
+- [Capitolul II. Implementarea aplicației](#capitolul-ii-implementarea-aplicației-50-puncte) - **50 puncte**
 	- [Secțiunea II.1. Eleganța implementării](#secțiunea-ii1-eleganța-implementării-10-puncte) - 10 puncte
 	- [Secțiunea II.2. Funcționalitate](#secțiunea-ii2-funcționalitate-15-puncte) - 15 puncte
 	- [Secțiunea II.3. Tehnologiile folosite](#secțiunea-ii3-tehnologiile-folosite-5-puncte) - 5 puncte
@@ -16,11 +16,11 @@ Secțiunea Software Utilitar
 	- [Secțiunea II.6. Maturitatea aplicației](#secțiunea-ii6-maturitatea-aplicației-5-puncte) - 5 puncte
 	- [Secțiunea II.7. Folosirea unui sistem de versionare](#secțiunea-ii7-folosirea-unui-sistem-de-versionare-5-puncte) - 5 puncte
 - [Capitolul III. Interfața (GUI / CUI)](#capitolul-iii-interfața-gui-cui-15-puncte) - **15 puncte**
-	- [Secțiunea III.1. Impresia generală](#secțiunea-iii1-impresia-generală)
-	- [Secțiunea III.2. Ușurință în folosire](#secțiunea-iii2-ușurință-în-folosire)
+	- [Secțiunea III.1. Impresia generală](#secțiunea-iii1-impresia-generală-10-puncte) - 10 puncte
+	- [Secțiunea III.2. Ușurință în folosire](#secțiunea-iii2-ușurință-în-folosire-5-puncte) - 5 puncte
 - [Capitolul IV. Prezentarea proiectului](#capitolul-iv-prezentarea-proiectului-10-puncte) - **10 puncte**
-	- [Secțiunea IV.1. Impresia generală a proiectului](#secțiunea-iv1-impresia-generală-a-proiectului)
-	- [Secțiunea IV.2. Documentația proiectului](#secțiunea-iv2-documentația-proiectului)
+	- [Secțiunea IV.1. Impresia generală a proiectului](#secțiunea-iv1-impresia-generală-a-proiectului-5-puncte) - 5 puncte
+	- [Secțiunea IV.2. Documentația proiectului](#secțiunea-iv2-documentația-proiectului-5-puncte) - 5 puncte
 - [Capitolul V. Resurse obligatorii](#capitolul-v-resurse-obligatorii)
 	- [Secțiunea V.1. Codul sursă](#secțiunea-v1-codul-sursă)
 	- [Secțiunea V.2. Resurse externe](#secțiunea-v2-resurse-externe)
@@ -131,24 +131,24 @@ Orice aplicație trebuie să ofere o modalitate elegantă de a expune funcționa
 
 În cadrul unei aplicații web acestă secțiune se referă la componenta frontend.
 
-##Secțiunea III.1. Impresia generală
+##Secțiunea III.1. Impresia generală - **10 puncte**
 Interfața trebuie să ofere publicului țintă accesul la operația / resursa dorită în cel mai simplu mod.
 
-##Secțiunea III.2. Ușurință în folosire
+##Secțiunea III.2. Ușurință în folosire - **5 puncte**
 Interfața trebuie să fie plăcută, intuitivă și ușor de parcurs (UI, UX).
 
 
 #Capitolul IV. Prezentarea proiectului - **10 puncte**
 În cadrul acestei secțiuni se vor puncta elemente ce țin de prezentarea și distribuirea proiectului.
 
-##Secțiunea IV.1. Impresia generală a proiectului
+##Secțiunea IV.1. Impresia generală a proiectului - **5 puncte**
 Vor fi punctate elemente ce țin de maniera de prezentare și justificare a necesității unui astfel de proiect. De exemplu:
 
 - website de prezentare.
 - film de prezentare a proiectului.
 - alte materiale menite să promoveze proiectul.
 
-##Secțiunea IV.2. Documentația proiectului
+##Secțiunea IV.2. Documentația proiectului - **5 puncte**
 În documentația proiectului vă sugerăm să punctați următoarele aspecte:
 
 - abstract:
