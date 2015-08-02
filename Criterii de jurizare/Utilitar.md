@@ -73,7 +73,7 @@ O aplicație trebuie să fie proiectată în așa fel încât să poată fi folo
 - posibilitatea de a folosi aplicația pe cât mai multe din dispozitivele folosite de public țintă ales.
 - posibilitatea arhitecturii de a fi portată cu ușurință de pe o platformă pe alta (doar dacă aplicația este destinată să fie cross-platform).
 - aplicația să se adapteze la diverse rezoluții, în funcție de dispozitiv, platformă și parametrii acesteia, având grijă ca aplicația să nu necesite resetarea pentru a obține această funcționalitate (doar acolo unde este cazul).
-- aplicația să se adapteze la schimbarea orientarii ecranului, având grijă ca datele sa nu se piarda atunci cand se realizeaza reorientarea (doar acolo unde este cazul).
+- aplicația să se adapteze la schimbarea orientarii ecranului, având grijă ca datele să nu se piarda atunci când se realizează reorientarea (doar acolo unde este cazul).
 - cât de eficient și responsabil se utilizează resursele sistemului - CPU, RAM, spațiu pe disk, baterie etc. (doar acolo unde este cazul).
 - cât de bine sunt folosiți senzorii disponibili - accelerometru, giroscop, GPS (doar acolo unde este cazul).
 - cât de eficient și responsabil sunt folosite capabilitățile de networking - WIFI direct, Bluetooth, infraroșu etc. - (doar acolo unde este cazul).
@@ -103,7 +103,7 @@ Elemente ce pot fi punctate în această secțiune:
 - modalitățile de testare non-funcționale ale proiectului (scalabilitate, performanță, securitate, portabilitate pe platforme multiple etc).
 - eventuale defecțiuni ale sistemelor de care proiectul depinde (internet, baza de date, etc).
 - modalități de automatizare a întregului proces de testare.
-- folosirea unui sistem de bug tracking sau task tracking pentru realizarea proiectului (issues de pe github sau bitbucket)
+- folosirea unui sistem de bug tracking sau task tracking pentru realizarea proiectului ("issues" de pe github sau bitbucket)
 
 
 ##Secțiunea II.6. Maturitatea aplicației - **5 puncte**
@@ -111,7 +111,7 @@ Elemente ce pot fi punctate în această secțiune:
 
 Elemente ce pot fi punctate:
 
-- viziunea aplicatiei in conformitate cu publicul tinta ales.
+- viziunea aplicatiei în conformitate cu publicul țintă ales.
 - stadiul său, relativ la fiecare secțiune.
 - utilizarea aplicației în lumea reală de către publicul țintă.
 
@@ -119,9 +119,9 @@ Elemente ce pot fi punctate:
 ##Secțiunea II.7. Folosirea unui sistem de versionare - **5 puncte**
 În cadrul acestei secțiuni vom puncta următoarele aspecte:
 
-- existența de stări intermediare pentru proiectul dezvoltat
-- folosirea corespunzătoare a capacităților sistemului de versionare (branch, tags etc)
-- mesaje relevante în istoria proiectului
+- existența de stări intermediare pentru proiectul dezvoltat.
+- folosirea corespunzătoare a capacităților sistemului de versionare (branch, tags etc).
+- mesaje relevante în istoria proiectului.
 
 **Atenție** - Orice echipă ce nu folosește un sistem de versionare nu va putea participa în concurs!
 
@@ -157,7 +157,7 @@ Vor fi punctate elemente ce țin de maniera de prezentare și justificare a nece
 - arhitectura aplicației.
 - elemente distinctive ale aplicației / puncte forte.
 - ghid de instalare și configurare a aplicație.
-- raspunsuri de cel putin un paragraf pentru urmatoarele intrebari:
+- raspunsuri de cel putin un paragraf pentru urmatoarele întrebări:
 	- justificarea folosirii tehnologiilor alese.
 	- opinia autorului/autorilor despre ideea ce stă la baza proiectului implementat, dar și utilitatea acestuia pentru publicul ei țintă (minim 1 exemplu).
 
