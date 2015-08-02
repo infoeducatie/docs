@@ -31,10 +31,10 @@ Secțiunea Software Utilitar
 
 În cadrul acestui capitol vom urmări toți pașii urmați în dezvoltarea proiectului propus.
 
-##Secțiunea I.1. Alegerea tematicii
+##Secțiunea I.1. Alegerea tematicii - **5 puncte**
 Această secțiune va puncta originalitatea ideii propuse, perspectiva în care a fost abordată tematica și maniera în care aduce beneficii publicului țintă.
 
-##Secțiunea I.2. Proiectarea arhitecturală
+##Secțiunea I.2. Proiectarea arhitecturală - **15 puncte**
 Poate unul dintre cei mai importanți pași în dezvoltarea unei aplicații este proiectarea arhitecturală. În cadrul acestui pas se alege maniera de implementare a proiectului dar și tehnologiile ce avantajeaza dezvoltarea acestuia.
 
 Aspecte ce pot fi punctate:
@@ -44,7 +44,7 @@ Aspecte ce pot fi punctate:
  - folosirea unor tehnologii open source.
  - crearea unor noi servicii/tehnologii.
 
-##Secțiunea I.3. Analiza pieței
+##Secțiunea I.3. Analiza pieței - **5 puncte**
 După alegerea unei tematici, dezvoltatorul trebuie să se documenteze referitor la proiecte asemănătoare sau la maniere alternative de implementare.
 
 În cazul în care soluția dezvoltatorului nu aduce nici un beneficiu în plus, aplicația reprezintă doar o reimplementare iar această secțiune nu va fi punctată.
@@ -59,6 +59,7 @@ Aspecte ce pot fi punctate:
 	- fezabilitatea proiectului pe termen scurt / lung.
 	- existența unui public țintă bine definit.
 
+
 #Capitolul II. Implementarea aplicației - **50 puncte**
 
 ##Secțiunea II.1. Eleganța implementării - **10 puncte**
@@ -72,11 +73,12 @@ O aplicație trebuie să fie proiectată în așa fel încât să poată fi folo
 - posibilitatea de a folosi aplicația pe cât mai multe din dispozitivele folosite de public țintă ales.
 - posibilitatea arhitecturii de a fi portată cu ușurință de pe o platformă pe alta (doar dacă aplicația este destinată să fie cross-platform).
 - aplicația să se adapteze la diverse rezoluții, în funcție de dispozitiv, platformă și parametrii acesteia, având grijă ca aplicația să nu necesite resetarea pentru a obține această funcționalitate (doar acolo unde este cazul).
-- cât de eficient și responsabil se utilizează resursele sistemului (CPU, RAM, spațiu pe disk, baterie etc).
-- cât de bine sunt folosiți senzorii disponibili atunci când este cazul (accelerometru, giroscop, GPS).
-- cât de eficient și responsabil sunt folosite capabilitățile de networking (WIFI direct, Bluetooth, infraroșu etc).
+- aplicația să se adapteze la schimbarea orientarii ecranului, având grijă ca datele sa nu se piarda atunci cand se realizeaza reorientarea (doar acolo unde este cazul).
+- cât de eficient și responsabil se utilizează resursele sistemului - CPU, RAM, spațiu pe disk, baterie etc. (doar acolo unde este cazul).
+- cât de bine sunt folosiți senzorii disponibili - accelerometru, giroscop, GPS (doar acolo unde este cazul).
+- cât de eficient și responsabil sunt folosite capabilitățile de networking - WIFI direct, Bluetooth, infraroșu etc. - (doar acolo unde este cazul).
 - posibilitatea de a oferi un minim de funcționalitate în cazul pierderii conexiunii la internet (doar acolo unde este cazul).
-- eficiența comunicării prin canale externe, acolo unde este cazul (folosirea unui cache, folosirea unor cereri de tip batch etc).
+- eficiența comunicării prin canale externe - folosirea unui cache, folosirea unor cereri de tip batch etc. - (doar acolo unde este cazul).
 
 ##Secțiunea II.3. Tehnologiile folosite - **5 puncte**
 În vederea evaluării acestui criteriu se va ține cont atât de necesitatea folosirii fiecărei tehnologii în realizarea proiectului, cât și de alegerea tehnologiilor potrivite pentru aplicația prezentată.
@@ -85,9 +87,10 @@ O aplicație trebuie să fie proiectată în așa fel încât să poată fi folo
 În cadrul acestei secțiuni se va urmări modalitățile abordate de autori pentru a evita executarea de scenarii nedorite în cadrul aplicației.
 
 Elemente ce pot fi punctate:
-- Validarea datelor de intrare și mecanisme de prevenție și protecție împotriva diverselor vulnerabilități (injecții, părăsirea sandbox-ului, escaladarea privilegiilor etc).
-- Tratarea erorilor și a excepțiilor.
-- Mecanisme de detecție și, eventual, blocare a atacurilor.
+
+- validarea datelor de intrare și mecanisme de prevenție și protecție împotriva diverselor vulnerabilități (injecții, părăsirea sandbox-ului, escaladarea privilegiilor etc).
+- tratarea erorilor și a excepțiilor.
+- mecanisme de detecție și, eventual, blocare a atacurilor.
 
 **Atenție** - Această secțiune va fi punctată direct proporțional cu complexitatea și necesitatea de securitate a aplicației.
 
@@ -96,16 +99,18 @@ Elemente ce pot fi punctate:
 
 Elemente ce pot fi punctate în această secțiune:
 
-- Modalitățile de testare funcțională a proiectului (unit testing, integration testing, etc).
-- Modalitățile de testare non-funcționale ale proiectului (scalabilitate, performanță, securitate, portabilitate pe platforme multiple etc).
-- Eventuale defecțiuni ale sistemelor de care proiectul depinde (internet, baza de date, etc).
-- Modalități de automatizare a întregului proces de testare.
+- modalitățile de testare funcțională a proiectului (unit testing, integration testing, etc).
+- modalitățile de testare non-funcționale ale proiectului (scalabilitate, performanță, securitate, portabilitate pe platforme multiple etc).
+- eventuale defecțiuni ale sistemelor de care proiectul depinde (internet, baza de date, etc).
+- modalități de automatizare a întregului proces de testare.
+- folosirea unui sistem de bug tracking sau task tracking pentru realizarea proiectului (issues de pe github sau bitbucket)
 
 
 ##Secțiunea II.6. Maturitatea aplicației - **5 puncte**
 În cadrul acestei secțiuni se va evalua starea în care se află aplicația și cât de aproape este aceasta pentru a putea fi distribuită publicului țintă.
 
 Elemente ce pot fi punctate:
+
 - viziunea aplicatiei in conformitate cu publicul tinta ales.
 - stadiul său, relativ la fiecare secțiune.
 - utilizarea aplicației în lumea reală de către publicul țintă.
@@ -120,6 +125,7 @@ Elemente ce pot fi punctate:
 
 **Atenție** - Orice echipă ce nu folosește un sistem de versionare nu va putea participa în concurs!
 
+
 #Capitolul III. Interfața (GUI / CUI) - **15 puncte**
 Orice aplicație trebuie să ofere o modalitate elegantă de a expune funcționalitățile oferite clientului.
 
@@ -130,6 +136,7 @@ Interfața trebuie să ofere publicului țintă accesul la operația / resursa d
 
 ##Secțiunea III.2. Ușurință în folosire
 Interfața trebuie să fie plăcută, intuitivă și ușor de parcurs (UI, UX).
+
 
 #Capitolul IV. Prezentarea proiectului - **10 puncte**
 În cadrul acestei secțiuni se vor puncta elemente ce țin de prezentarea și distribuirea proiectului.
@@ -144,15 +151,15 @@ Vor fi punctate elemente ce țin de maniera de prezentare și justificare a nece
 ##Secțiunea IV.2. Documentația proiectului
 În documentația proiectului vă sugerăm să punctați următoarele aspecte:
 
-- Abstract:
+- abstract:
 	- o descriere scurtă și exactă asupra scopului aplicației și a principalelor funcționalități.
-- Prezentarea funcționalităților aplicației.
-- Arhitectura aplicației.
-- Elemente distinctive ale aplicației / puncte forte.
-- Ghid de instalare și configurare a aplicație.
-- Raspunsuri de cel putin un paragraf pentru urmatoarele intrebari:
-	- Justificarea folosirii tehnologiilor alese.
-	- Opinia autorului/autorilor despre ideea ce stă la baza proiectului implementat, dar și utilitatea acestuia pentru publicul ei țintă (minim 1 exemplu).
+- prezentarea funcționalităților aplicației.
+- arhitectura aplicației.
+- elemente distinctive ale aplicației / puncte forte.
+- ghid de instalare și configurare a aplicație.
+- raspunsuri de cel putin un paragraf pentru urmatoarele intrebari:
+	- justificarea folosirii tehnologiilor alese.
+	- opinia autorului/autorilor despre ideea ce stă la baza proiectului implementat, dar și utilitatea acestuia pentru publicul ei țintă (minim 1 exemplu).
 
 
 #Capitolul V. Resurse obligatorii
@@ -180,4 +187,4 @@ Printre acestea putem menționa:
 - Aplicațiile înscrise ce conțin alte funcționalități, în afara celor declarate (cod malițios), vor fi descalificate.
 - Folosirea unor resurse externe ce nu sunt declarate odată cu predarea proiectului va duce, după caz, la depunctarea sau chiar descalificarea participanților din concurs.
 - Orice tentativă de fraudă (spre exemplu, copierea unui proiect) va duce la descalificarea proiectului din concurs.
-- **Atenție** - Punctajele acordate pentru capitolul [I. Arhitectura aplicației](#capitolul-i-arhitectura-aplicației-30-puncte) și [II. Implementarea aplicației](#capitolul-ii-implementarea-aplicației-40-puncte) **sunt direct proporționale cu complexitatea și amploarea proiectului dezvoltat**.
+- **Atenție** - Punctajele acordate pentru capitolul [I. Arhitectura aplicației](#capitolul-i-arhitectura-aplicației-25-puncte) și [II. Implementarea aplicației](#capitolul-ii-implementarea-aplicației-40-puncte) **sunt direct proporționale cu complexitatea și amploarea proiectului dezvoltat**.
