@@ -4,9 +4,9 @@ Secțiunea Software Utilitar
 --------------------
 
 - [Capitolul I. Arhitectura aplicației](#capitolul-i-arhitectura-aplicației-25-puncte) - **25 puncte**
-	- [Secțiunea I.1. Alegerea tematicii](#secțiunea-i1-alegerea-tematicii)
-	- [Secțiunea I.2. Proiectarea arhitecturală](#secțiunea-i2-proiectarea-arhitecturală)
-	- [Secțiunea I.3. Analiza pieței](#secțiunea-i3-analiza-pieței)
+	- [Secțiunea I.1. Alegerea tematicii - 5 puncte](#secțiunea-i1-alegerea-tematicii-5-puncte)
+	- [Secțiunea I.2. Proiectarea arhitecturală - 15 puncte](#secțiunea-i2-proiectarea-arhitecturală-15-puncte)
+	- [Secțiunea I.3. Analiza pieței - 5 puncte](#secțiunea-i3-analiza-pieței)
 - [Capitolul II. Implementarea aplicației](#capitolul-ii-implementarea-aplicației-50-puncte) - 50 puncte
 	- [Secțiunea II.1. Eleganța implementării](#secțiunea-ii1-eleganța-implementării-10-puncte) - 10 puncte
 	- [Secțiunea II.2. Funcționalitate](#secțiunea-ii2-funcționalitate-15-puncte) - 15 puncte
