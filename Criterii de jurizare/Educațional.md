@@ -7,7 +7,7 @@ Secțiunea Software Educațional
     - [Secțiunea I.1. Tehnologii folosite](#secțiunea-i1-tehnologii-folosite)
     - [Secțiunea I.2. Proiectarea arhitecturală](#secțiunea-i2-proiectarea-arhitecturală)
     - [Secțiunea I.3. Portabilitate](#secțiunea-i3-portabilitate)
-- [Capitolul II. Implementarea aplicației](#capitolul-iii-implementarea-aplicației-20-puncte) 20 puncte
+- [Capitolul II. Implementarea aplicației](#capitolul-ii-implementarea-aplicației-20-puncte) 20 puncte
     - [Secțiunea II.1. Eleganța implementării](#secțiunea-ii1-eleganța-implementării)
     - [Secțiunea II.2. Testarea aplicației](#secțiunea-ii2-testarea-aplicației)
     - [Secțiunea II.3. Folosirea unui sistem de gestionare a codului](#secțiunea-ii3-folosirea-unui-sistem-de-gestionare-a-codului)
@@ -20,7 +20,7 @@ Secțiunea Software Educațional
     - [Secțiunea IV.1. Funcționalitate, utilitate și interactivitate](#secțiunea-iv1-funcționalitate-utilitate-și-interactivitate)
     - [Secțiunea IV.2. Evaluare și feedback](#secțiunea-iv2-evaluare-și-feedback)
     - [Secțiunea IV.3. Posibilitatea de a actualiza și gestiona conținutul](#secțiunea-iv3-posibilitatea-de-a-actualiza-și-gestiona-conținutul)
-    - [Secțiunea IV.4. Corectitudinea informațiilor din punct de vedere științific](#secțiunea-iv5-corectitudinea-informațiilor-din-punct-de-vedere-științific)
+    - [Secțiunea IV.4. Corectitudinea informațiilor din punct de vedere științific](#secțiunea-iv4-corectitudinea-informațiilor-din-punct-de-vedere-științific)
 - [Capitolul V. Originalitate și inovație](#capitolul-v-originalitate-și-inovație-10-puncte) 10 puncte
     - [Secțiunea V.1. Originalitatea ideii sau inovații aduse față de soluții existente.](#secțiunea-v1-originalitatea-ideii-sau-inovații-aduse-față-de-soluții-existente)
 - [Capitolul VI. Prezentarea proiectului](#capitolul-vi-prezentarea-proiectului-10-puncte) 10 puncte
