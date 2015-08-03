@@ -102,7 +102,7 @@ Secțiunea Software Educațional
 
 #Capitolul V. Originalitate și inovație **10 puncte**
 
-##Secțiunea VI.1. Originalitatea ideii sau inovații aduse față de soluții existente.
+##Secțiunea V.1. Originalitatea ideii sau inovații aduse față de soluții existente.
 
 #Capitolul VI. Prezentarea proiectului **10 puncte**
 
