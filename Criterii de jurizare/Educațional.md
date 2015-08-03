@@ -57,7 +57,7 @@ Secțiunea Software Educațional
 
 ##Secțiunea II.3. Folosirea unui sistem de gestionare a codului
 
-- Folosirea unui sistem de versionare (Git / Subversion etc.) în timpul dezvoltării.
+- Folosirea unui sistem de gestionare (Git / Subversion etc.) în timpul dezvoltării.
 
 ##Secțiunea II.4. Maturitatea aplicației
 
