@@ -24,8 +24,8 @@ Secțiunea Software Educațional
 - [Capitolul V. Originalitate și inovație](#capitolul-v-originalitate-și-inovație-10-puncte) 10 puncte
     - [Secțiunea V.1. Originalitatea ideii sau inovații aduse față de soluții existente.](#secțiunea-v1-originalitatea-ideii-sau-inovații-aduse-față-de-soluții-existente)
 - [Capitolul VI. Prezentarea proiectului](#capitolul-vi-prezentarea-proiectului-10-puncte) 10 puncte
-    - [Secțiunea VI.1. Impresia generală a proiectului](#secțiunea-v1-impresia-generală-a-proiectului)
-    - [Secțiunea VI.2. Documentația proiectului](#secțiunea-v2-documentația-proiectului)
+    - [Secțiunea VI.1. Impresia generală a proiectului](#secțiunea-vi1-impresia-generală-a-proiectului)
+    - [Secțiunea VI.2. Documentația proiectului](#secțiunea-vi2-documentația-proiectului)
 
 #Capitolul I. Arhitectura aplicației **10 puncte**
 
@@ -67,7 +67,7 @@ Secțiunea Software Educațional
 
 - Aplicația nu trebuie să fie expusă la vulnerabilități de securitate.
 
-#Capitolul III. Interfață (GUI / CUI) **10 puncte**
+#Capitolul III. Interfață **10 puncte**
 
 ##Secțiunea III.1. Impresia generală
 
@@ -82,7 +82,7 @@ Secțiunea Software Educațional
 
 #Capitolul IV. Conținut **40 puncte**
 
-##Secțiunea IV.1. Funcționalitate și utilitate
+##Secțiunea IV.1. Funcționalitate, utilitate și interactivitate
 
 - Utilitatea funcționalităților.
 - Implicarea utilizatorului ca factor activ în procesul de instalare (experimente virtuale etc.).
@@ -102,7 +102,7 @@ Secțiunea Software Educațional
 
 #Capitolul V. Originalitate și inovație **10 puncte**
 
-- Originalitatea ideii sau inovații aduse față de soluții existente.
+##Secțiunea VI.1. Originalitatea ideii sau inovații aduse față de soluții existente.
 
 #Capitolul VI. Prezentarea proiectului **10 puncte**
 
