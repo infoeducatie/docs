@@ -22,7 +22,7 @@ Secțiunea Software Educațional
     - [Secțiunea IV.3. Posibilitatea de a actualiza și gestiona conținutul](#secțiunea-iv3-posibilitatea-de-a-actualiza-și-gestiona-conținutul)
     - [Secțiunea IV.4. Corectitudinea informațiilor din punct de vedere științific](#secțiunea-iv4-corectitudinea-informațiilor-din-punct-de-vedere-științific)
 - [Capitolul V. Originalitate și inovație](#capitolul-v-originalitate-și-inovație-10-puncte) 10 puncte
-    - [Secțiunea V.1. Originalitatea ideii sau inovații aduse față de soluții existente.](#secțiunea-v1-originalitatea-ideii-sau-inovații-aduse-față-de-soluții-existente)
+    - [Secțiunea V.1. Originalitatea ideii sau inovații aduse față de soluții existente](#secțiunea-v1-originalitatea-ideii-sau-inovații-aduse-față-de-soluții-existente)
 - [Capitolul VI. Prezentarea proiectului](#capitolul-vi-prezentarea-proiectului-10-puncte) 10 puncte
     - [Secțiunea VI.1. Impresia generală a proiectului](#secțiunea-vi1-impresia-generală-a-proiectului)
     - [Secțiunea VI.2. Documentația proiectului](#secțiunea-vi2-documentația-proiectului)
@@ -61,7 +61,7 @@ Secțiunea Software Educațional
 
 ##Secțiunea II.4. Maturitatea aplicației
 
-- Aflarea proiectului într­un stadiu în care poate fi distribuit publicului.
+- Aflarea proiectului într-­un stadiu în care poate fi distribuit publicului.
 
 ##Secțiunea II.5. Securitatea aplicației
 
