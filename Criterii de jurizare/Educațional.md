@@ -85,7 +85,7 @@ Secțiunea Software Educațional
 ##Secțiunea IV.1. Funcționalitate, utilitate și interactivitate
 
 - Utilitatea funcționalităților.
-- Implicarea utilizatorului ca factor activ în procesul de instalare (experimente virtuale etc.).
+- Implicarea utilizatorului ca factor activ în procesul de învățare (experimente virtuale etc.).
 
 ##Secțiunea IV.2. Evaluare și feedback
 
